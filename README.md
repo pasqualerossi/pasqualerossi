@@ -5,6 +5,7 @@ Discord :speech_balloon:  - Pasquale | prossi#3642 <br>
 
 ## 42 Piscine Projects 🖥️  <br> 
 ### [Piscine](https://github.com/pasqualerossi/42-Piscine)
+### [Piscine Exams](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam)
 
 ## 42 School Projects 🏫 <br> 
 ### [Libft](https://github.com/pasqualerossi/Libft) <br> 
@@ -15,7 +16,6 @@ Discord :speech_balloon:  - Pasquale | prossi#3642 <br>
 ### [So_Long](https://github.com/pasqualerossi/So_Long) <br> 
 ### [Push_Swap](https://github.com/pasqualerossi/Push_Swap)
 
-## 42 Exams 📝 
+## 42 School Exams 📝 
 
-### [Piscine Exams](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam)
 ### [School Exam Rank 02](https://github.com/pasqualerossi/42-School-Exam-Rank-02)
