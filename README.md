@@ -3,11 +3,11 @@
 Discord :speech_balloon:  - Pasquale | prossi#3642 <br>
 42 Intra :computer: - https://profile.intra.42.fr/users/prossi
 
-## 42 Piscine Projects 🖥️  <br> 
+## 42 Piscine 🖥️  <br> 
 ### [Piscine](https://github.com/pasqualerossi/42-Piscine)
 ### [Piscine Exams](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam)
 
-## 42 School Projects 🏫 <br> 
+## 42 School 🏫 <br> 
 ### [Libft](https://github.com/pasqualerossi/Libft) <br> 
 ### [Born2BeRoot](https://github.com/pasqualerossi/Born2BeRoot) <br> 
 ### [Printf](https://github.com/pasqualerossi/Printf) <br> 
