@@ -17,5 +17,5 @@
 
 ## 42 Exams
 
-### 42 Piscine Exams - Coming Soon
+### [42 Piscine Exams](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam)
 ### [42 School Exam Rank 02](https://github.com/pasqualerossi/42-School-Exam-Rank-02)
