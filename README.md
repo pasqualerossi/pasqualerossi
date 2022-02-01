@@ -1,10 +1,10 @@
 ## How To Reach Me  📫 
 
-Discord :speech_balloon: <br>
-### Pasquale | prossi#3642
+### Discord :speech_balloon: <br>
+Pasquale | prossi#3642
 
-42 Intra :computer: <br>
-### [prossi](https://profile.intra.42.fr/users/prossi)
+### 42 Intra :computer: <br>
+[prossi](https://profile.intra.42.fr/users/prossi)
 
 ## 42 Piscine 🖥️  <br> 
 ### [Piscine](https://github.com/pasqualerossi/42-Piscine)
