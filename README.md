@@ -1,7 +1,7 @@
 ## How To Reach Me  📫 
 
 ### Discord :speech_balloon: <br>
-Pasquale | prossi#3642
+```Pasquale | prossi#3642```
 
 ### 42 Intra :computer: <br>
 [prossi](https://profile.intra.42.fr/users/prossi)
