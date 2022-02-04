@@ -27,6 +27,6 @@
 
 ### [42-Cursus-Tester](https://github.com/pasqualerossi/42-Cursus-Tester)
 
-## 42 Project Submission Checklist
+## 42 Project Submission Checklist :bookmark:
 
 ### [42 Project Checklist](https://github.com/pasqualerossi/42-Project-Submission-Checklist)
