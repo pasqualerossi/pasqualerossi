@@ -22,3 +22,7 @@
 ## 42 School Exams 📝 
 
 ### [School Exam Rank 02](https://github.com/pasqualerossi/42-School-Exam-Rank-02)
+
+## 42 Tester  :mag:
+
+### [42-Cursus-Tester](https://github.com/pasqualerossi/42-Cursus-Tester)
