@@ -15,12 +15,15 @@
 ### 42 Intra :computer: <br>
 - ### [prossi](https://profile.intra.42.fr/users/prossi)
 
+<br> 
+
 # C Projects
 
 ### 42 Piscine 🖥️  <br> 
 - ### [Piscine](https://github.com/pasqualerossi/42-Piscine)
 - ### [Piscine Exams](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam)
 
+<br> 
 
 ### 42 School 🏫 <br> 
 - ### [Libft](https://github.com/pasqualerossi/Libft) <br> 
@@ -31,16 +34,19 @@
 - ### [So_Long](https://github.com/pasqualerossi/So_Long) <br> 
 - ### [Push_Swap](https://github.com/pasqualerossi/Push_Swap)
 
+<br> 
 
 ### 42 School Exams 📝 
 
 - ### [School Exam Rank 02](https://github.com/pasqualerossi/42-School-Exam-Rank-02)
 
+<br> 
 
 ### 42 School Tester  :mag:
 
 - ### [42-Cursus-Tester](https://github.com/pasqualerossi/42-Cursus-Tester)
 
+<br> 
 
 ### 42 Project Submission Checklist :bookmark:
 
