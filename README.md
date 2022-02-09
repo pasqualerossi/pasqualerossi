@@ -7,8 +7,6 @@
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/prossi)](https://github.com/JaeSeoKim/badge42)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durantecode&theme=tokyonight)
-
 # Contact
 
 ### How To Reach Me  📫 
@@ -55,3 +53,8 @@
 ### 42 Project Submission Checklist :bookmark:
 
 - ### [42 Project Checklist](https://github.com/pasqualerossi/42-Project-Submission-Checklist)
+
+# Github Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durantecode&theme=tokyonight)
+<img align="left" alt="Pasquale Rossi GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pasqualerossi&show_icons=true&hide_border=true&theme=tokyonight" />
