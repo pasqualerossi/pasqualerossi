@@ -1,9 +1,9 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/prossi)](https://github.com/JaeSeoKim/badge42)
 
