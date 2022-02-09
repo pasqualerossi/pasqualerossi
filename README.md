@@ -20,6 +20,9 @@
 ### 42 Intra :computer: <br>
 - ### [prossi](https://profile.intra.42.fr/users/prossi)
 
+### Linkedin 🖱️
+- ### [Pasquale Rossi](www.linkedin.com/in/pasqualerossi1)
+
 
 
 # C Projects
