@@ -5,6 +5,8 @@
 [![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
 
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/prossi)](https://github.com/JaeSeoKim/badge42)
+
 # Contact
 
 ### How To Reach Me  📫 
