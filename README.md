@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2323F715&vCenter=true&lines=Thanks+for+visiting+my+account.;If+you+need+anything;Please+do+not+hesitate+to+contact+me.;Have+a+wonderful+day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2323F715&vCenter=true&lines=Thanks+for+visiting+my+repo.;If+you+need+anything;Please+do+not+hesitate+to+contact+me.;Have+a+wonderful+day)](https://git.io/typing-svg)
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
