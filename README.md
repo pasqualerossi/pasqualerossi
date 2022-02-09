@@ -54,6 +54,7 @@
 
 - ### [42 Project Checklist](https://github.com/pasqualerossi/42-Project-Submission-Checklist)
 
+
 # Github Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durantecode&theme=tokyonight)
