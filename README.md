@@ -17,7 +17,7 @@
 ### 42 Intra :computer: <br>
 - ### [prossi](https://profile.intra.42.fr/users/prossi)
 
-<br> 
+
 
 # C Projects
 
@@ -25,7 +25,7 @@
 - ### [Piscine](https://github.com/pasqualerossi/42-Piscine)
 - ### [Piscine Exams](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam)
 
-<br> 
+
 
 ### 42 School 🏫 <br> 
 - ### [Libft](https://github.com/pasqualerossi/Libft) <br> [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/prossi/Libft)](https://github.com/JaeSeoKim/badge42) <br>
@@ -35,20 +35,18 @@
 - ### [MiniTalk](https://github.com/pasqualerossi/MiniTalk) <br> [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/prossi/minitalk)](https://github.com/JaeSeoKim/badge42) <br> 
 - ### [So_Long](https://github.com/pasqualerossi/So_Long) <br> [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/prossi/so_long)](https://github.com/JaeSeoKim/badge42) <br> 
 - ### [Push_Swap](https://github.com/pasqualerossi/Push_Swap) <br> [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/prossi/push_swap)](https://github.com/JaeSeoKim/badge42) <br> 
-
-<br> 
+ 
 
 ### 42 School Exams 📝 
 
 - ### [School Exam Rank 02](https://github.com/pasqualerossi/42-School-Exam-Rank-02)
 
-<br> 
+
 
 ### 42 School Tester  :mag:
 
 - ### [42-Cursus-Tester](https://github.com/pasqualerossi/42-Cursus-Tester)
 
-<br> 
 
 ### 42 Project Submission Checklist :bookmark:
 
