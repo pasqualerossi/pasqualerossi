@@ -28,13 +28,13 @@
 <br> 
 
 ### 42 School 🏫 <br> 
-- ### [Libft](https://github.com/pasqualerossi/Libft) <br> 
-- ### [Born2BeRoot](https://github.com/pasqualerossi/Born2BeRoot) <br> 
-- ### [Printf](https://github.com/pasqualerossi/Printf) <br> 
-- ### [Get_Next_Line](https://github.com/pasqualerossi/Get_Next_Line) <br> 
-- ### [MiniTalk](https://github.com/pasqualerossi/MiniTalk) <br> 
-- ### [So_Long](https://github.com/pasqualerossi/So_Long) <br> 
-- ### [Push_Swap](https://github.com/pasqualerossi/Push_Swap)
+- ### [Libft](https://github.com/pasqualerossi/Libft) <br> [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/prossi/Libft)](https://github.com/JaeSeoKim/badge42) <br>
+- ### [Born2BeRoot](https://github.com/pasqualerossi/Born2BeRoot) <br> [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/prossi/Born2beroot)](https://github.com/JaeSeoKim/badge42) <br>
+- ### [Printf](https://github.com/pasqualerossi/Printf) <br> [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/prossi/ft_printf)](https://github.com/JaeSeoKim/badge42) <br> 
+- ### [Get_Next_Line](https://github.com/pasqualerossi/Get_Next_Line) <br> [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/prossi/get_next_line)](https://github.com/JaeSeoKim/badge42) <br> 
+- ### [MiniTalk](https://github.com/pasqualerossi/MiniTalk) <br> [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/prossi/minitalk)](https://github.com/JaeSeoKim/badge42) <br> 
+- ### [So_Long](https://github.com/pasqualerossi/So_Long) <br> [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/prossi/so_long)](https://github.com/JaeSeoKim/badge42) <br> 
+- ### [Push_Swap](https://github.com/pasqualerossi/Push_Swap) <br> [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/prossi/push_swap)](https://github.com/JaeSeoKim/badge42) <br> 
 
 <br> 
 
