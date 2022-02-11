@@ -21,6 +21,7 @@
 
 ### 42 Intra :computer: <br>
 - ### [prossi](https://profile.intra.42.fr/users/prossi)
+- ### prossi@student.42adel.org.au 
 
 ### Linkedin 🖱️
 - ### [Pasquale Rossi](www.linkedin.com/in/pasqualerossi1)
