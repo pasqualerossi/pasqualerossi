@@ -16,14 +16,16 @@
 
 ### How To Reach Me  📫 
 
-### Discord :speech_balloon: <br>
-- ### ```Pasquale | prossi#3642```
-
 ### 42 Intra :computer: <br>
 - ### [prossi](https://profile.intra.42.fr/users/prossi)
 - ### prossi@student.42adel.org.au 
+<br>
 
-### Linkedin 🖱️
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> <br>
+- ### ```Pasquale | prossi#3642```
+<br>
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> <br>
 - ### [Pasquale Rossi](www.linkedin.com/in/pasqualerossi1)
 
 # 42 Projects
