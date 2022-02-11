@@ -12,7 +12,7 @@
 ### Skills
 <img src="https://img.shields.io/badge/c%20-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/git%20-F050532.svg?&style=for-the-badge&logo=git&logoColor=FFFFFF"/>
 
-# Contact Me
+# Contact Details  🗣️ 📱
 
 ### 4️⃣2️⃣ Intra 💻
 - ### [prossi](https://profile.intra.42.fr/users/prossi)
@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> <br>
 - ### [Pasquale Rossi](www.linkedin.com/in/pasqualerossi1)
 
-# 42 Projects
+# 42 Projects  ⌨️ 🖱️
 
 ### 42 Piscine 🖥️  <br> 
 - ### [Piscine](https://github.com/pasqualerossi/42-Piscine)
