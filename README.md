@@ -25,7 +25,7 @@
 ### Linkedin 🖱️
 - ### [Pasquale Rossi](www.linkedin.com/in/pasqualerossi1)
 
-# C Projects
+# 42 Projects
 
 ### 42 Piscine 🖥️  <br> 
 - ### [Piscine](https://github.com/pasqualerossi/42-Piscine)
