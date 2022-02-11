@@ -62,7 +62,7 @@
 - ### [42 Project Checklist](https://github.com/pasqualerossi/42-Project-Submission-Checklist)
 
 
-# Github Stats
+# Github Stats 🔢
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durantecode&theme=tokyonight)
 <img align="left" alt="Pasquale Rossi GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pasqualerossi&show_icons=true&hide_border=true&theme=tokyonight" />
