@@ -7,7 +7,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/prossi)](https://github.com/JaeSeoKim/badge42)
+![jaeskim's stats](https://badge42.herokuapp.com/api/stats/prossi)
 
 ### Skills
 <img src="https://img.shields.io/badge/c%20-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/git%20-F050532.svg?&style=for-the-badge&logo=git&logoColor=FFFFFF"/>
