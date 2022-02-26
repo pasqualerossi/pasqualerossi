@@ -24,7 +24,7 @@
 <br>
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> <br>
-- ### [Pasquale Rossi](www.linkedin.com/in/pasqualerossi1)
+- ### [Pasquale Rossi](https://www.linkedin.com/in/pasqualerossi22/)
 
 # 42 Projects  ⌨️ 🖱️
 
