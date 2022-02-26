@@ -42,8 +42,8 @@
 |  01   |[Get_Next_Line](https://github.com/pasqualerossi/Get_Next_Line)			|    C     | ![ldurante's get_next_line Score](https://badge42.herokuapp.com/api/project/prossi/get_next_line) |
 |      |[Ft_Printf](https://github.com/pasqualerossi/Printf)   			|    C     | ![ldurante's ft_printf Score](https://badge42.herokuapp.com/api/project/prossi/ft_printf) |
 |      |[Born2BeRoot](https://github.com/pasqualerossi/Born2BeRoot)   			|    n/a     | ![ldurante's B2bR Score](https://badge42.herokuapp.com/api/project/prossi/Born2beroot) |
-|      |[MiniTalk](https://github.com/durantecode/pipex)   			|    C    | ![ldurante's pipex's Score](https://badge42.herokuapp.com/api/project/ldurante/pipex) |
-|   02   |[So_Long](https://github.com/durantecode/so_long)   			|    C    | ![ldurante's so_long's Score](https://badge42.herokuapp.com/api/project/prossi/so_long) |
+|      |[MiniTalk](https://github.com/pasqualerossi/MiniTalk)   			|    C    | ![ldurante's pipex's Score](https://badge42.herokuapp.com/api/project/ldurante/pipex) |
+|   02   |[So_Long](https://github.com/pasqualerossi/so_long)   			|    C    | ![ldurante's so_long's Score](https://badge42.herokuapp.com/api/project/prossi/so_long) |
 |      |[Push_Swap](https://github.com/durantecode/push_swap)   			|    C    | ![ldurante's push_swap Score](https://badge42.herokuapp.com/api/project/prossi/push_swap) |
  
 ### 42 School Exams 📝 <br> 
