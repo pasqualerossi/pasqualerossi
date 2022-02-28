@@ -2,6 +2,7 @@
 
 <a href="https://github.com/pasqualerossi?tab=followers"><img src="https://img.shields.io/github/followers/pasqualerossi?label=Followers&style=social" alt="GitHub Badge"></a>
 <img src="https://komarev.com/ghpvc/?username=pasqualerossi&label=Profile%20views&color=0e75b6&style=flat" alt="pasqualerossi" />
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
