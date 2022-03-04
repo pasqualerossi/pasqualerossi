@@ -37,42 +37,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> <br>
 - ### [Pasquale Rossi](https://www.linkedin.com/in/pasqualerossi22/)
 
-## 42 Projects  ⌨️ 🖱️
-
-### 42 Piscine 🖥️  <br> 
-- ### [Piscine](https://github.com/pasqualerossi/42-Piscine)
-- ### [Piscine Exams](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam)
-
-
-
-### 42 School 🏫 <br> 
-
-|Circle|			Project			| Language | Score | 
-|:----:|:----------------:|:--------:|:-----:|
-|  00  |[Libft](https://github.com/pasqualerossi/Libft)|    C     | ![ldurante's libft Score](https://badge42.herokuapp.com/api/project/prossi/Libft)
-|  01   |[Get_Next_Line](https://github.com/pasqualerossi/Get_Next_Line)			|    C     | ![ldurante's get_next_line Score](https://badge42.herokuapp.com/api/project/prossi/get_next_line) |
-|      |[Ft_Printf](https://github.com/pasqualerossi/Printf)   			|    C     | ![ldurante's ft_printf Score](https://badge42.herokuapp.com/api/project/prossi/ft_printf) |
-|      |[Born2BeRoot](https://github.com/pasqualerossi/Born2BeRoot)   			|    n/a     | ![ldurante's B2bR Score](https://badge42.herokuapp.com/api/project/prossi/Born2beroot) |
-|      |[MiniTalk](https://github.com/pasqualerossi/MiniTalk)   			|    C    | ![ldurante's pipex's Score](https://badge42.herokuapp.com/api/project/ldurante/pipex) |
-|   02   |[So_Long](https://github.com/pasqualerossi/so_long)   			|    C    | ![ldurante's so_long's Score](https://badge42.herokuapp.com/api/project/prossi/so_long) |
-|      |[Push_Swap](https://github.com/durantecode/push_swap)   			|    C    | ![ldurante's push_swap Score](https://badge42.herokuapp.com/api/project/prossi/push_swap) |
- 
-### 42 School Exams 📝 <br> 
-
-|Circle|			Project			| Language | Score | 
-|:----:|:----------------:|:--------:|:-----:|
-|  02  |[Exam Rank 02](https://github.com/pasqualerossi/42-School-Exam-Rank-02) |    C    | ![ldurante's push_swap Score](https://badge42.herokuapp.com/api/project/prossi/push_swap) |
-
-### 42 School Tester  :mag:
-
-- ### [42-Cursus-Tester](https://github.com/pasqualerossi/42-Cursus-Tester)
-
-
-### 42 Project Submission Checklist :bookmark:
-
-- ### [42 Project Checklist](https://github.com/pasqualerossi/42-Project-Submission-Checklist)
-
-
 ## Github Stats 🔢
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durantecode&theme=tokyonight)
