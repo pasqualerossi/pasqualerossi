@@ -12,6 +12,8 @@
 
 <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="175px"/></a>
 
+![snake svg](https://github.com/ismailpalalii/ismailpalalii/blob/output/github-contribution-grid-snake.svg)
+
 ## 🚀 Languages and Tools:
 <p align="left"> 
     <a href="https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-160"_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
