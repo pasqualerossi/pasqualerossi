@@ -12,7 +12,7 @@
 
 <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="175px"/></a>
 
-![snake svg](https://github.com/ismailpalalii/ismailpalalii/blob/output/github-contribution-grid-snake.svg)
+![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
 
 ## 🚀 Languages and Tools:
 <p align="left"> 
