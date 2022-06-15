@@ -29,13 +29,6 @@
 - ### prossi@student.42adel.org.au 
 <br>
 
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> <br>
-- ### ```Pasquale | prossi#3642```
-<br>
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> <br>
-- ### [Pasquale Rossi](https://www.linkedin.com/in/pasqualerossi22/)
-
 ## Github Stats 🔢
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durantecode&theme=tokyonight)
