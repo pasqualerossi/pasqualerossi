@@ -19,7 +19,7 @@ Are you currenty a 42 School Student - **[click here](https://github.com/pasqual
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
 
-## 🚀 &nbsp; Languages and Tools:
+# 🚀 &nbsp; Languages and Tools
 <p align="left"> 
     <a href="https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-160"_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
     <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html" target="_blank"> <img src="https://img.icons8.com/plasticine/48/000000/bash.png"/> </a>
@@ -27,7 +27,7 @@ Are you currenty a 42 School Student - **[click here](https://github.com/pasqual
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
 </p>
 
-## 📱 &nbsp; My Details
+# 📱 &nbsp; My Details
 
 ### 42 Intra
 - ### [prossi](https://profile.intra.42.fr/users/prossi)
