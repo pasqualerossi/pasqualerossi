@@ -1,7 +1,7 @@
-# 🧑‍🎓 &nbsp; 42 Piscine Student
+# 🧑‍🎓 &nbsp; [42 Piscine Student Guide](https://github.com/pasqualerossi/42-Piscine-Guide)
 Are you currently a 42 Piscine Student - **[click here](https://github.com/pasqualerossi/42-Piscine-Guide)**
 
-# 🖥️ &nbsp;42 School Student
+# 🖥️ &nbsp; [42 School Student Guide](https://github.com/pasqualerossi/42-Projects-Guide)
 Are you currenty a 42 School Student - **[click here](https://github.com/pasqualerossi/42-Projects-Guide)**
 
 <br>
