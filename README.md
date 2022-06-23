@@ -25,8 +25,3 @@
 - ### [prossi](https://profile.intra.42.fr/users/prossi)
 - ### prossi@student.42adel.org.au 
 <br>
-
-## Github Stats 🔢
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durantecode&theme=tokyonight)
-<img align="left" alt="Pasquale Rossi GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pasqualerossi&show_icons=true&hide_border=true&theme=tokyonight" />
