@@ -1,3 +1,11 @@
+# 🧑‍🎓 &nbsp; 42 Piscine Student
+Are you currently a 42 Piscine Student - **[click here](https://github.com/pasqualerossi/42-Piscine)**
+
+# 🖥️ &nbsp;42 School Student
+Are you currenty a 42 School Student - **[click here](https://github.com/pasqualerossi/42-Projects-Guide)**
+
+<br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2323F715&vCenter=true&lines=Thanks+for+visiting+my+repo.;If+you+need+anything;Please+do+not+hesitate+to+contact+me.;Have+a+wonderful+day!)](https://git.io/typing-svg)
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
