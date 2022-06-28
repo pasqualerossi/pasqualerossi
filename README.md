@@ -1,11 +1,13 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2323F715&vCenter=true&lines=Thanks+for+visiting+my+repo.;If+you+need+anything;Please+do+not+hesitate+to+contact+me.;Have+a+wonderful+day!)](https://git.io/typing-svg)
+
+[![prossi's 42 stats](https://badge.mediaplus.ma/greenbinary/prossi?1337Badge=off)](https://github.com/oakoudad/badge42)
+
 # Which of the following are you?
 
 - ### 🧑‍🎓 &nbsp;[42 Piscine Student - Click Here](https://github.com/pasqualerossi/42-Piscine-Guide)
 - ### 🖥️ &nbsp; [42 School Student - Click Here](https://github.com/pasqualerossi/42-Projects-Guide)
 
 <br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2323F715&vCenter=true&lines=Thanks+for+visiting+my+repo.;If+you+need+anything;Please+do+not+hesitate+to+contact+me.;Have+a+wonderful+day!)](https://git.io/typing-svg)
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
@@ -25,10 +27,3 @@
     <a href="https://code.visualstudio.com/docs" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
 </p>
-
-# 📱 &nbsp; My Details
-
-### 42 Intra
-- ### [prossi](https://profile.intra.42.fr/users/prossi)
-- ### prossi@student.42adel.org.au 
-<br>
