@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2323F715&vCenter=true&lines=Thanks+for+visiting+my+repo.;If+you+need+anything;Please+do+not+hesitate+to+contact+me.;Have+a+wonderful+day!)](https://git.io/typing-svg)
-
-[![prossi's 42 stats](https://badge.mediaplus.ma/greenbinary/prossi?1337Badge=off)](https://github.com/oakoudad/badge42)
-
 # Which of the following are you?
 
 - ### 🧑‍🎓 &nbsp;[42 Piscine Student - Click Here](https://github.com/pasqualerossi/42-Piscine-Guide)
 - ### 🖥️ &nbsp; [42 School Student - Click Here](https://github.com/pasqualerossi/42-Projects-Guide)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2323F715&vCenter=true&lines=Thanks+for+visiting+my+repo.;If+you+need+anything;Please+do+not+hesitate+to+contact+me.;Have+a+wonderful+day!)](https://git.io/typing-svg)
+
+[![prossi's 42 stats](https://badge.mediaplus.ma/greenbinary/prossi?1337Badge=off)](https://github.com/oakoudad/badge42)
 
 <br>
 
