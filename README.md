@@ -5,6 +5,8 @@
 
 [![prossi's 42 stats](https://badge.mediaplus.ma/darkblue/prossi?1337Badge=off)](https://github.com/oakoudad/badge42)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pasqualerossi)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
