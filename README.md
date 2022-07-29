@@ -1,5 +1,3 @@
-<div align="center">
-
 ### 🖥️ &nbsp; [42 School Student Guide - Click Here](https://github.com/pasqualerossi/42-Projects-Guide)
 ### 🧑‍🎓 &nbsp; [42 Piscine Student Guide - Click Here](https://github.com/pasqualerossi/42-Piscine-Guide)
 
