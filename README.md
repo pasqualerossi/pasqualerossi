@@ -1,6 +1,6 @@
-### 🖥️ &nbsp; Are you a 42 School Student - [Click Here](https://github.com/pasqualerossi/42-Projects-Guide)
-
 ### 🧑‍🎓 &nbsp; Are you a 42 Piscine Student - [Click Here](https://github.com/pasqualerossi/42-Piscine-Guide)
+
+### 🖥️ &nbsp; Are you a 42 School Student - [Click Here](https://github.com/pasqualerossi/42-Projects-Guide)
 
 <br>
 
