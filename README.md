@@ -4,6 +4,8 @@
 
 ## 🖥️ &nbsp; [42 School Student - Click Here](https://github.com/pasqualerossi/42-Projects-Guide)
 
+## :hammer: &nbsp; [42 School Resources - Click Here](https://github.com/pasqualerossi/42-Resources)
+
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
 
 </div>
