@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2323F715&vCenter=true&lines=Thanks+for+visting;If+your+a+42+Student;Click+below;Thanks+for+visting;If+your+a+42+Student;Click+below;)](https://git.io/typing-svg)
 
-# 🎓 &nbsp; [42 Piscine Student - Click Here](https://github.com/pasqualerossi/42-Piscine-Guide)
+## 🎓 &nbsp; [42 Piscine Student - Click Here](https://github.com/pasqualerossi/42-Piscine-Guide)
 
-# 🖥️ &nbsp; [42 School Student - Click Here](https://github.com/pasqualerossi/42-Projects-Guide)
+## 🖥️ &nbsp; [42 School Student - Click Here](https://github.com/pasqualerossi/42-Projects-Guide)
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
 
