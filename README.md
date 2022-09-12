@@ -28,6 +28,7 @@
 
 </div>
 
-<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="175px"/></a>
-
-<div align="center">
+<div align="left">
+   <a id="page" href="https://e.rip/⚠⚠⚠" target="_blank">
+ <img src="https://user-images.githubusercontent.com/93293719/189478020-75f9d9e9-3fe8-48c5-89a5-1f9f76ac27f4.gif"/>  </a>
+    <div>
