@@ -1,4 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2323F715&vCenter=true&lines=Thanks+for+visting;If+your+a+42+Student;Click+below;Thanks+for+visting;If+your+a+42+Student;Click+below;)](https://git.io/typing-svg)
+# Listen To Our Podcast - Techs with Flex  :microphone: 
+
+The Podcast that delves into the lives of those flexing some muscle :muscle: in South Australia’s :australia: Technology Scene :computer: 
+
+**Link To The Podcast - https://open.spotify.com/show/31ziNmo1SWAoP6raY08XZ0** :sound: :headphones:
+
+</p>
+
+<p align="center">
+  <img width="1379" alt="Screen Shot 2022-09-21 at 11 37 58 AM" src="https://user-images.githubusercontent.com/58959408/191399446-98d02898-8ffa-4b23-a2a6-18beccf8fbb1.png">
+</p>
+
+# 42 Student
 
 ### 🎓 &nbsp; [42 Piscine Student - Click Here](https://github.com/pasqualerossi/42-Piscine-Guide) - for C Projects and Exams
 
@@ -25,10 +37,3 @@
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
-
-</div>
-
-<div align="left">
-   <a id="page" href="https://e.rip/⚠⚠⚠" target="_blank">
- <img src="https://user-images.githubusercontent.com/93293719/189478020-75f9d9e9-3fe8-48c5-89a5-1f9f76ac27f4.gif"/>  </a>
-    <div>
