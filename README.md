@@ -1,3 +1,5 @@
+[![prossi's 42 stats](https://badge42.vercel.app/api/v2/cl8tr1kva00060gmj7neorelf/stats?cursusId=21&coalitionId=177)](https://github.com/JaeSeoKim/badge42)
+
 # Listen To Our Podcast - Techs with Flex  :microphone: 
 
 The Podcast that delves into the lives of those flexing some muscle :muscle: in South Australia’s :australia: Technology Scene :computer: 
