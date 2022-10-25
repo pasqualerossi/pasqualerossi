@@ -12,18 +12,6 @@
 
 [![prossi's 42 stats](https://badge42.vercel.app/api/v2/cl8tr1kva00060gmj7neorelf/stats?cursusId=21&coalitionId=177)](https://github.com/JaeSeoKim/badge42)
 
-# Listen To Our Podcast - Techs with Flex  :microphone: 
-
-The Podcast that delves into the lives of those flexing some muscle :muscle: in South Australia’s :australia: Technology Scene :computer: 
-
-**Link To The Podcast - https://open.spotify.com/show/31ziNmo1SWAoP6raY08XZ0** :sound: :headphones:
-
-</p>
-
-<p align="center">
-  <img width="1379" alt="Screen Shot 2022-09-21 at 11 37 58 AM" src="https://user-images.githubusercontent.com/58959408/191399446-98d02898-8ffa-4b23-a2a6-18beccf8fbb1.png">
-</p>
-
 </div>
 
 ## My Skills
