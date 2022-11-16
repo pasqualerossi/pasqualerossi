@@ -20,7 +20,7 @@
 
 ## Future Skills
 
-[![My Skills](https://skillicons.dev/icons?i=swift,flutter,java,kotlin,react,js,angular,appwrite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,flutter,java,kotlin,react,js)](https://skillicons.dev)
 
 ## This Repo
 
