@@ -9,23 +9,22 @@
 | :iphone: &nbsp; [42 Outer Circle / Specialisation Student - Click Here](https://github.com/pasqualerossi/42-Specialisation)       |
 |-----------------------------------------|
 
+
 <br>
-
-## My Skills
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,linkedin,html,css,github,git,figma,discord,)](https://skillicons.dev)
-
-## My Future Skills
-
-[![My Skills](https://skillicons.dev/icons?i=swift,flutter,kotlin,react,js)](https://skillicons.dev)
-
-## This Repo
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
+
+## Skills in Progress
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,linkedin,html,css,github,git,figma,discord,)](https://skillicons.dev)
+
+## Interested In
+
+[![My Skills](https://skillicons.dev/icons?i=swift,flutter,kotlin,react,js)](https://skillicons.dev)
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
 
