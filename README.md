@@ -1,4 +1,7 @@
-# Which of the following are you?
+# Which of the following are you looking for?
+
+| 🎓  &nbsp; [42 Exams - COMING SOON](https://github.com/pasqualerossi/42-Projects-Guide)       | 
+|-----------------------------------------| 
 
 | 🎓  &nbsp; [42 Piscine Student - Click Here](https://github.com/pasqualerossi/42-Piscine-Guide)       | 
 |-----------------------------------------| 
