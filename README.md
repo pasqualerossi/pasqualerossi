@@ -23,11 +23,11 @@
 
 ## Skills in Progress
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,linkedin,html,css,github,git,figma,discord,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,linkedin,html,css,github,git,figma,discord,xd,wordpress,visualstudio,twitter)](https://skillicons.dev)
 
 ## Interested In
 
-[![My Skills](https://skillicons.dev/icons?i=swift,flutter,kotlin,react,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,dart,flutter,kotlin,androidstudio, react,js)](https://skillicons.dev)
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
 ## 42 Adelaide Badge
