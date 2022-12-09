@@ -3,6 +3,9 @@
 | 🎓  &nbsp; [42 Exams - COMING SOON](https://github.com/pasqualerossi/42-Projects-Guide)       | 
 |-----------------------------------------| 
 
+| 🎓  &nbsp; [42 Resources - COMING SOON](https://github.com/pasqualerossi/42-Projects-Guide)       | 
+|-----------------------------------------| 
+
 | 🎓  &nbsp; [42 Piscine Student - Click Here](https://github.com/pasqualerossi/42-Piscine-Guide)       | 
 |-----------------------------------------| 
 
