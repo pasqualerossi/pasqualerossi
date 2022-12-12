@@ -1,6 +1,6 @@
 # Which of the following are you looking for?
 
-| :keyboard:  &nbsp; [42 Exams]([https://github.com/pasqualerossi/42-Projects-Guide](https://github.com/pasqualerossi/42-Exams))       | 
+| :keyboard:  &nbsp; [42 Exams - Click Here](https://github.com/pasqualerossi/42-Exams)       | 
 |-----------------------------------------| 
 
 | 🎓  &nbsp; [42 Piscine Student - Click Here](https://github.com/pasqualerossi/42-Piscine-Guide)       | 
