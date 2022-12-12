@@ -6,7 +6,7 @@
 | 🎓  &nbsp; [42 Piscine Student - Click Here](https://github.com/pasqualerossi/42-Piscine-Guide)       | 
 |-----------------------------------------| 
 
-| 🖥️  &nbsp; [42 Inner Circle / Fundamentals Student - Click Here](https://github.com/pasqualerossi/42-Projects-Guide)       |
+| 🖥️  &nbsp; [42 Inner Circle Student - Click Here](https://github.com/pasqualerossi/42-Projects-Guide)       |
 |-----------------------------------------|
 
 | :iphone: &nbsp; [42 Specialisation Student - Click Here](https://github.com/pasqualerossi/42-Specialisation)       |
