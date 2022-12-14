@@ -1,3 +1,7 @@
+Notice The Number of Repositories? :smile:
+
+<img width="165" alt="Screen Shot 2022-12-14 at 8 18 53 PM" src="https://user-images.githubusercontent.com/58959408/207562897-558c7377-ebf1-4aff-8065-97b4550310df.png">
+
 # What are you looking for?
 
 | :keyboard:  &nbsp; [42 Exams - Click Here](https://github.com/pasqualerossi/42-Exams)       | 
