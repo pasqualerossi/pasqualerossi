@@ -12,6 +12,9 @@
 | :iphone: &nbsp; [42 Specialisation Student - Click Here](https://github.com/pasqualerossi/42-Specialisation)       |
 |-----------------------------------------|
 
+| :hammer_and_wrench: &nbsp; [42 Resources - Click Here](https://github.com/pasqualerossi/42-Tools)       |
+|-----------------------------------------|
+
 
 <br>
 
