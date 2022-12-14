@@ -1,4 +1,4 @@
-# Which of the following are you looking for?
+# What are you looking for?
 
 | :keyboard:  &nbsp; [42 Exams - Click Here](https://github.com/pasqualerossi/42-Exams)       | 
 |-----------------------------------------| 
