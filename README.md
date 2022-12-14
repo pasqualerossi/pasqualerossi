@@ -33,6 +33,5 @@
 [![My Skills](https://skillicons.dev/icons?i=swift,dart,flutter,kotlin,androidstudio,react,js)](https://skillicons.dev)
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
-## 42 Adelaide Badge
 
 [![prossi's 42 stats](https://badge42.vercel.app/api/v2/cl8tr1kva00060gmj7neorelf/stats?cursusId=21&coalitionId=177)](https://github.com/JaeSeoKim/badge42)
