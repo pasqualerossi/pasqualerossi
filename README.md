@@ -1,4 +1,4 @@
-# What are you looking for?
+## What are you looking for?
 
 | :keyboard:  &nbsp; [42 Exams - Click Here](https://github.com/pasqualerossi/42-Exams)       | 
 |-----------------------------------------| 
@@ -15,7 +15,6 @@
 | :hammer_and_wrench: &nbsp; [42 Resources - Click Here](https://github.com/pasqualerossi/42-Tools)       |
 |-----------------------------------------|
 
-
 <br>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
@@ -23,13 +22,27 @@
 [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
 
+<br>
+
+## Github Sponsorship :octocat:
+
+#### Feel free to sponsor this Github Account 👏
+
+<kbd> <br> [SPONSOR](https://github.com/sponsors/pasqualerossi) <br> </kbd> 
+
+<br>
+
 ## Skills in Progress
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,linkedin,html,css,github,git,figma,discord,xd,wordpress,visualstudio,twitter)](https://skillicons.dev)
 
+> C | C++ | Markdown | Bash | Vim | Visual Studio Code | Stack Overflow | LinkedIn | HTML | CSS | Github | Git | Figma | Discord | Adobe XD | WordPress | Visual Studio | Twitter
+
 ## Interested In
 
 [![My Skills](https://skillicons.dev/icons?i=swift,dart,flutter,kotlin,androidstudio,react,js)](https://skillicons.dev)
+
+> Swift | Dart | Flutter | Kotlin | Android Studio | React Native | JavaScript
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
 
