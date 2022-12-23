@@ -36,6 +36,10 @@
 
 > [Exam Rank 02](https://github.com/pasqualerossi/42-School-Exam-Rank-02)
 
+<p align="center">
+Over 48,000 Views in just 2 weeks! 👇
+</p>
+
 [<img width="1499" alt="Screen Shot 2022-12-22 at 4 43 10 PM" src="https://user-images.githubusercontent.com/58959408/209069329-1727a38a-06d9-402c-a29d-1089564b09f1.png">](https://github.com/pasqualerossi/42-School-Exam-Rank-02)
 
 <br>
