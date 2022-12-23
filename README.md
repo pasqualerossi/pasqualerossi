@@ -1,3 +1,6 @@
+![christmas-kv-2](https://user-images.githubusercontent.com/58959408/209251201-04d8a104-4ca6-49b7-82d3-c7647a1bc474.gif)
+
+
 ## What are you looking for?
 
 | :keyboard:  &nbsp; [42 Exams - Click Here](https://github.com/pasqualerossi/42-Exams)       | 
