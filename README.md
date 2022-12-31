@@ -1,5 +1,4 @@
-![christmas-kv-2](https://user-images.githubusercontent.com/58959408/209251201-04d8a104-4ca6-49b7-82d3-c7647a1bc474.gif)
-
+![19507269956c4e1dbcf6bae0160da4d9](https://user-images.githubusercontent.com/58959408/210125761-d327682d-b83c-45c7-9a89-0a006d4bd477.gif)
 
 ## What are you looking for?
 
@@ -35,25 +34,13 @@
 
 <br>
 
-## Most Viewed Repository 
-
-> [Exam Rank 02](https://github.com/pasqualerossi/42-School-Exam-Rank-02)
-
-<p align="center">
-Over 48,000 Views in just 2 weeks! 👇
-</p>
-
-[<img width="1499" alt="Screen Shot 2022-12-22 at 4 43 10 PM" src="https://user-images.githubusercontent.com/58959408/209069329-1727a38a-06d9-402c-a29d-1089564b09f1.png">](https://github.com/pasqualerossi/42-School-Exam-Rank-02)
-
-<br>
-
-## Skills in Progress
+## My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,linkedin,html,css,github,git,figma,discord,xd,wordpress,visualstudio,twitter)](https://skillicons.dev)
 
 > C | C++ | Markdown | Bash | Vim | Visual Studio Code | Stack Overflow | LinkedIn | HTML | CSS | Github | Git | Figma | Discord | Adobe XD | WordPress | Visual Studio | Twitter
 
-## Interested In
+## Skills Acquiring
 
 [![My Skills](https://skillicons.dev/icons?i=swift,dart,flutter,kotlin,androidstudio,react,js)](https://skillicons.dev)
 
