@@ -26,11 +26,11 @@
 
 <br>
 
-## Github Sponsorship :octocat:
+## Github Donation :octocat:
 
-#### Feel free to sponsor this Github Account 👏
+#### Feel free to donate to this Github Account.
 
-<kbd> <br> [SPONSOR](https://github.com/sponsors/pasqualerossi) <br> </kbd> 
+<kbd> <br> [Donate Here](https://github.com/sponsors/pasqualerossi) <br> </kbd> 
 
 <br>
 
