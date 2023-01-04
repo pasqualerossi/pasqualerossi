@@ -34,11 +34,19 @@
 
 <br>
 
+## My LinkedIn 
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pasqualerossi1/) 
+
+[Click Here](https://www.linkedin.com/in/pasqualerossi1/)
+
+<br>
+
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,linkedin,html,css,github,git,figma,discord,xd,wordpress,visualstudio,twitter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,html,css,github,git,figma,discord,xd,wordpress,visualstudio,twitter)](https://skillicons.dev)
 
-> C | C++ | Markdown | Bash | Vim | Visual Studio Code | Stack Overflow | LinkedIn | HTML | CSS | Github | Git | Figma | Discord | Adobe XD | WordPress | Visual Studio | Twitter
+> C | C++ | Markdown | Bash | Vim | Visual Studio Code | Stack Overflow | HTML | CSS | Github | Git | Figma | Discord | Adobe XD | WordPress | Visual Studio | Twitter
 
 ## Skills Acquiring
 
