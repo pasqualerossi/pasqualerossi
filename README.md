@@ -1,6 +1,4 @@
-![year](https://user-images.githubusercontent.com/58959408/210288042-02411c37-b49a-4d33-8bad-de6d90044a05.gif)
-
-## What are you looking for?
+## 🧙 What Are You Looking For?
 
 | :keyboard:  &nbsp; [42 Exams - Click Here](https://github.com/pasqualerossi/42-Exams)       | 
 |-----------------------------------------| 
@@ -19,6 +17,14 @@
 
 <br>
 
+## 🦸 Support This GitHub
+
+#### Feel free to donate to this Github Account.
+
+<kbd> <br> [Donate Here](https://github.com/sponsors/pasqualerossi) <br> </kbd>
+
+<br>
+
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
@@ -26,32 +32,23 @@
 
 <br>
 
-## Github Donation :octocat:
+## 🧑‍💻 My Current Technical Skills
 
-#### Feel free to donate to this Github Account.
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,html,css,github,git,figma,xd,wordpress,visualstudio)](https://skillicons.dev)
 
-<kbd> <br> [Donate Here](https://github.com/sponsors/pasqualerossi) <br> </kbd> 
-
-<br>
-
-## My LinkedIn 
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pasqualerossi1/) 
-
-[Click Here](https://www.linkedin.com/in/pasqualerossi1/)
+> C | C++ | Markdown | Bash | Vim | Visual Studio Code | Stack Overflow | HTML | CSS | Github | Git | Figma | Adobe XD | WordPress | Visual Studio
 
 <br>
 
-## My Skills
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,html,css,github,git,figma,discord,xd,wordpress,visualstudio,twitter)](https://skillicons.dev)
-
-> C | C++ | Markdown | Bash | Vim | Visual Studio Code | Stack Overflow | HTML | CSS | Github | Git | Figma | Discord | Adobe XD | WordPress | Visual Studio | Twitter
-
-## Skills Acquiring
+## 💻 Skills I'm Currently Acquiring
 
 [![My Skills](https://skillicons.dev/icons?i=swift,dart,flutter,kotlin,androidstudio,react,js)](https://skillicons.dev)
 
 > Swift | Dart | Flutter | Kotlin | Android Studio | React Native | JavaScript
+
+<br>
+
+## Connect With Me On [LinkedIn](https://www.linkedin.com/in/pasqualerossi1/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pasqualerossi1/)
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
