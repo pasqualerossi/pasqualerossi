@@ -32,6 +32,32 @@
 
 <br>
 
+## 🧍 My Origin
+
+🇦🇺 Australian-Born
+
+🇮🇹 Italian Parents and Name
+
+### Pasquale
+
+> 🍫 Meaning: Easter 
+>
+> 💡 Fun Fact: I'm born on Easter!
+
+### Emilio
+
+> 🏅 Meaning: To strive or excel or rival.
+>
+> 💡 Fun Fact: I strive to make this Github great, get what I did there!
+
+### Rossi
+
+> 👨‍🦰 Meaning: Red-haired or ruddy-complexioned individual.
+>
+> 💡 Fun Fact: When the weather is really warm, my face goes super red!
+
+<br>
+
 ## 🧑‍💻 My Current Technical Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,html,css,github,git,figma,xd,wordpress,visualstudio)](https://skillicons.dev)
@@ -42,9 +68,9 @@
 
 ## 💻 Skills I'm Currently Acquiring
 
-[![My Skills](https://skillicons.dev/icons?i=swift,dart,flutter,kotlin,androidstudio,react,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,dart,flutter,kotlin,androidstudio,js)](https://skillicons.dev)
 
-> Swift | Dart | Flutter | Kotlin | Android Studio | React Native | JavaScript
+> Swift | Dart | Flutter | Kotlin | Android Studio | JavaScript
 
 <br>
 
