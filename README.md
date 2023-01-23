@@ -40,7 +40,7 @@
 
 ### Pasquale
 
-> 🍫 Meaning: Easter 
+> 🍫 Meaning: Easter.
 >
 > 💡 Fun Fact: I'm born on Easter!
 
