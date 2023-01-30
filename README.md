@@ -76,13 +76,15 @@
 
 ## 💻 Skills I'm Currently Acquiring
 
-[![My Skills](https://skillicons.dev/icons?i=swift,dart,flutter,kotlin,androidstudio,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,dart,flutter,kotlin,androidstudio,js,firebase)](https://skillicons.dev)
 
 <br>
 
 > :desktop_computer:  Languages - Swift | Kotlin | Dart | JavaScript
 
 > :atom:  IDEs - Flutter | Android Studio
+
+> :fire: Database - Firebase
 
 <br>
 
