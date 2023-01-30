@@ -62,7 +62,15 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,html,css,github,git,figma,xd,wordpress,visualstudio)](https://skillicons.dev)
 
-> C | C++ | Markdown | Bash | Vim | Visual Studio Code | Stack Overflow | HTML | CSS | Github | Git | Figma | Adobe XD | WordPress | Visual Studio
+<br>
+
+> :desktop_computer:  Languages - C | C++ | Markdown | Bash | HTML | CSS
+
+> :hammer_and_wrench:  Tools - Figma | Adobe XD | Git | GitHub | Stack Overflow
+
+> :framed_picture:  Frameworks -  WordPress
+
+> :atom:  IDEs - Vim | Visual Studio | Visual Studio Code
 
 <br>
 
@@ -70,7 +78,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=swift,dart,flutter,kotlin,androidstudio,js)](https://skillicons.dev)
 
-> Swift | Dart | Flutter | Kotlin | Android Studio | JavaScript
+<br>
+
+> :desktop_computer:  Languages - Swift | Kotlin | Dart | JavaScript
+
+> :atom:  IDEs - Flutter | Android Studio
 
 <br>
 
