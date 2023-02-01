@@ -89,6 +89,7 @@
 <br>
 
 ## [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pasqualerossi1/) Connect With Me On [LinkedIn](https://www.linkedin.com/in/pasqualerossi1/)
-![Screenshot (46)](https://user-images.githubusercontent.com/58959408/215388313-64c28acc-2dd5-4411-8151-c17deee16702.png)
+
+<img width="681" alt="Screen Shot 2023-02-01 at 5 26 17 PM" src="https://user-images.githubusercontent.com/58959408/215972906-09b46a5d-bd6b-4e2c-8728-9e0912e1c872.png">
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
