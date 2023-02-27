@@ -27,6 +27,12 @@
 
 <br>
 
+## 📧 Contact Me Through Slack
+
+[@prossi](https://42born2code.slack.com/team/U2JE3L1L0)
+
+<br>
+
 ## 🦸 Support This GitHub
 
 #### Feel free to donate to this Github Account.
