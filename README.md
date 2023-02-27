@@ -92,13 +92,13 @@
 
 ## 💻 Skills I'm Currently Acquiring
 
-[![My Skills](https://skillicons.dev/icons?i=swift,dart,flutter,kotlin,androidstudio,js,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,kotlin,androidstudio,js,firebase)](https://skillicons.dev)
 
 <br>
 
-> :desktop_computer:  Languages - Swift | Kotlin | Dart | JavaScript
+> :desktop_computer:  Languages - Swift | Kotlin | JavaScript
 
-> :atom:  IDEs - Flutter | Android Studio
+> :atom:  IDEs - Xcode | Android Studio
 
 > :fire: Database - Firebase
 
