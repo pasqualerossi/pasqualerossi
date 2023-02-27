@@ -19,6 +19,14 @@
 
 <br>
 
+## 4️⃣2️⃣ My 42 Details
+
+[Link To My 42Intra](https://profile.intra.42.fr/users/prossi)
+
+[![prossi's 42 stats](https://badge.mediaplus.ma/darkblue/prossi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
+<br>
+
 ## 🦸 Support This GitHub
 
 #### Feel free to donate to this Github Account.
