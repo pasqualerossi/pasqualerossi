@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=10F74B&background=FFFFFF00&vCenter=true&width=435&lines=Welcome+To+My+Github!;Have+A+Look+Around.)](https://git.io/typing-svg)
-
 ## 🧙 What Are You Looking For?
 
 | :keyboard:  &nbsp; [42 Exams - Click Here](https://github.com/pasqualerossi/42-Exams)       | 
