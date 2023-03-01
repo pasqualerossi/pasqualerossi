@@ -104,6 +104,8 @@ Tools for 42 Students
 
 > :atom:  IDEs - Xcode | Android Studio
 
+> :framed_picture: Frameworks - SwiftUI | Jetpack Compose
+
 > :fire: Database - Firebase
 
 <br>
