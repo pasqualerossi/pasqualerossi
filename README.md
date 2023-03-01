@@ -52,29 +52,9 @@ Tools for 42 Students
 
 <br>
 
-## 🧍 My Origin
+## [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pasqualerossi1/) Connect With Me On [LinkedIn](https://www.linkedin.com/in/pasqualerossi1/)
 
-🇦🇺 Australian-Born
-
-🇮🇹 Italian Parents and Name
-
-### Pasquale
-
-> 🍫 Meaning: Easter.
->
-> 💡 Fun Fact: I'm born on Easter!
-
-### Emilio
-
-> 🏅 Meaning: To strive or excel or rival.
->
-> 💡 Fun Fact: I strive to make this Github great, get what I did there!
-
-### Rossi
-
-> 👨‍🦰 Meaning: Red-haired or ruddy-complexioned individual.
->
-> 💡 Fun Fact: When the weather is really warm, my face goes super red!
+<img width="681" alt="Screen Shot 2023-02-01 at 5 26 17 PM" src="https://user-images.githubusercontent.com/58959408/215972906-09b46a5d-bd6b-4e2c-8728-9e0912e1c872.png">
 
 <br>
 
@@ -109,9 +89,5 @@ Tools for 42 Students
 > :fire: Database - Firebase
 
 <br>
-
-## [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pasqualerossi1/) Connect With Me On [LinkedIn](https://www.linkedin.com/in/pasqualerossi1/)
-
-<img width="681" alt="Screen Shot 2023-02-01 at 5 26 17 PM" src="https://user-images.githubusercontent.com/58959408/215972906-09b46a5d-bd6b-4e2c-8728-9e0912e1c872.png">
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
