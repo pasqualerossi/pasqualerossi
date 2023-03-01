@@ -1,19 +1,25 @@
 ## 🧙 What Are You Looking For?
 
-| :keyboard:  &nbsp; [42 Exams - Click Here](https://github.com/pasqualerossi/42-Exams)       | 
-|-----------------------------------------| 
+| :keyboard:  &nbsp; [42 Exams - Click Here](https://github.com/pasqualerossi/42-Exams)| 
+|:--|
+Piscine Exam and Exam Rank 02 to 06
 
-| 🎓  &nbsp; [42 Piscine Student - Click Here](https://github.com/pasqualerossi/42-Piscine-Guide)       | 
-|-----------------------------------------| 
+| 🎓  &nbsp; [42 Piscine Student - Click Here](https://github.com/pasqualerossi/42-Piscine-Guide)| 
+|:--|
+C00 to C07, Exams and Rush00
 
-| 🖥️  &nbsp; [42 Inner Circle Student - Click Here](https://github.com/pasqualerossi/42-Projects-Guide)       |
-|-----------------------------------------|
+| 🖥️  &nbsp; [42 Inner Circle Student - Click Here](https://github.com/pasqualerossi/42-Projects-Guide)|
+|:--|
+Also known as: Common Core, Fundamentals or Foundations
 
-| :iphone:  &nbsp;  [42 Specialisation Student - Click Here](https://github.com/pasqualerossi/42-Specialisation)       |
-|-----------------------------------------|
+| :iphone:  &nbsp;  [42 Specialisation Student - Click Here](https://github.com/pasqualerossi/42-Specialisation)|
+|:--|
+Also known as: Outer Circle, Outer Rings or Extended Core
 
-| :hammer_and_wrench: &nbsp; [42 Resources - Click Here](https://github.com/pasqualerossi/42-Tools)       |
-|-----------------------------------------|
+| :hammer_and_wrench: &nbsp; [42 Resources - Click Here](https://github.com/pasqualerossi/42-Tools)|
+|:--|
+Tools for 42 Students
+
 
 <br>
 
