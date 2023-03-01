@@ -88,9 +88,9 @@ Tools for 42 Students
 
 > :hammer_and_wrench:  Tools - Figma | Adobe XD | Git | GitHub | Stack Overflow
 
-> :framed_picture:  Frameworks -  WordPress
-
 > :atom:  IDEs - Vim | Visual Studio | Visual Studio Code
+
+> :framed_picture:  Frameworks -  WordPress
 
 <br>
 
