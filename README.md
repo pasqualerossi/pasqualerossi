@@ -2,7 +2,7 @@
 
 | :keyboard:  &nbsp; [42 Exams - Click Here](https://github.com/pasqualerossi/42-Exams)| 
 |:--|
-Piscine Exam and Exam Rank 02 to 06
+Piscine Exams (00, 01, 02 and Final Exam) and School Exams (Rank 02 to 06)
 
 | 🎓  &nbsp; [42 Piscine Student - Click Here](https://github.com/pasqualerossi/42-Piscine-Guide)| 
 |:--|
@@ -18,7 +18,7 @@ Also known as: Outer Circle, Outer Rings or Extended Core
 
 | :hammer_and_wrench: &nbsp; [42 Resources - Click Here](https://github.com/pasqualerossi/42-Tools)|
 |:--|
-Tools for 42 Students
+Tools for 42 Students on 42 Campus
 
 
 <br>
