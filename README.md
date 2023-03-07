@@ -14,7 +14,7 @@ Also known as: Common Core, Fundamentals or Foundations
 
 | :iphone:  &nbsp;  [42 Specialisation Student - Click Here](https://github.com/pasqualerossi/42-Specialisation)|
 |:--|
-Also known as: Outer Circle, Outer Rings or Extended Core
+Also known as: Outer Circle, Outer Ring or Extended Core
 
 | :hammer_and_wrench: &nbsp; [42 Resources - Click Here](https://github.com/pasqualerossi/42-Tools)|
 |:--|
