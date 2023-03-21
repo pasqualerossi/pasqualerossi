@@ -1,20 +1,41 @@
 ## 🧙 What Are You Looking For?
 
-| :keyboard:  &nbsp; [42 Exams - Click Here](https://github.com/pasqualerossi/42-Exams)| 
+### 42 Piscine
+
+| 🎓  &nbsp; [Piscine Projects - Click Here](https://github.com/pasqualerossi/42-Piscine-Guide)| 
 |:--|
 
-| 🎓  &nbsp; [42 Piscine Student - Click Here](https://github.com/pasqualerossi/42-Piscine-Guide)| 
+| :keyboard:  &nbsp; [Piscine Exams - Click Here](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam)| 
 |:--|
 
-| 🖥️  &nbsp; [42 Common Core Student - Click Here](https://github.com/pasqualerossi/42-Projects-Guide)|
+
+### 42 Common Core
+
+| 🖥️  &nbsp; [Common Core Projects - Click Here](https://github.com/pasqualerossi/42-Projects-Guide)|
 |:--|
 
-| :iphone:  &nbsp;  [42 Specialisation Student - Click Here](https://github.com/pasqualerossi/42-Specialisation)|
+| :keyboard:  &nbsp; [Common Core Exams - Click Here](https://github.com/pasqualerossi/42-Exams)| 
 |:--|
+
+### 42 Campus Resources
 
 | :hammer_and_wrench: &nbsp; [42 Resources - Click Here](https://github.com/pasqualerossi/42-Tools)|
 |:--|
 
+
+### 42 Specialisation
+
+| :iphone:  &nbsp;  [App Development Overview - Click Here](https://github.com/pasqualerossi/42-Specialisation)|
+|:--|
+
+| :iphone:  &nbsp;  [Swift iOS Piscine - Click Here](https://github.com/pasqualerossi/Swift-Piscine)|
+|:--|
+
+| :iphone:  &nbsp;  [Mobile Piscine - Coming Soon]()|
+|:--|
+
+| :iphone:  &nbsp;  [Mobile Projects - Click Here](https://github.com/pasqualerossi/42-Mobile-Development)|
+|:--|
 
 <br>
 
