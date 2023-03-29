@@ -65,7 +65,7 @@ Also known as Fundamentals, Foundations, Inner Circle.
 
 ## 🧑‍💻 My Current Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,html,css,github,git,figma,xd,wordpress,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,html,css,github,git,figma,xd,visualstudio)](https://skillicons.dev)
 
 <br>
 
@@ -74,8 +74,6 @@ Also known as Fundamentals, Foundations, Inner Circle.
 > :hammer_and_wrench:  Tools - Figma | Adobe XD | Git | GitHub | Stack Overflow
 
 > :atom:  IDEs - Vim | Visual Studio | Visual Studio Code
-
-> :framed_picture:  Frameworks -  WordPress
 
 <br>
 
