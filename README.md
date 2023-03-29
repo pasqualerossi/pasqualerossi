@@ -11,30 +11,27 @@
 
 ### 42 Common Core
 
+Also known as Fundamentals, Foundations, Inner Circle.
+
 | 🖥️  &nbsp; [Common Core Projects - Click Here](https://github.com/pasqualerossi/42-Projects-Guide)|
 |:--|
 
 | :keyboard:  &nbsp; [Common Core Exams - Click Here](https://github.com/pasqualerossi/42-Exams)| 
 |:--|
 
-### 42 Campus Resources
-
-| :hammer_and_wrench: &nbsp; [42 Resources - Click Here](https://github.com/pasqualerossi/42-Tools)|
-|:--|
-
 
 ### 42 Specialisation
-
-| :iphone:  &nbsp;  [App Development Overview - Click Here](https://github.com/pasqualerossi/42-Specialisation)|
-|:--|
 
 | :iphone:  &nbsp;  [Swift iOS Piscine - Click Here](https://github.com/pasqualerossi/Swift-Piscine)|
 |:--|
 
-| :iphone:  &nbsp;  [Mobile Piscine - Coming Soon]()|
+| :iphone:  &nbsp;  [Mobile App Projects - Click Here](https://github.com/pasqualerossi/42-Mobile-Development)|
 |:--|
 
-| :iphone:  &nbsp;  [Mobile Projects - Click Here](https://github.com/pasqualerossi/42-Mobile-Development)|
+
+### 42 Campus Resources
+
+| :hammer_and_wrench: &nbsp; [42 Resources - Click Here](https://github.com/pasqualerossi/42-Tools)|
 |:--|
 
 <br>
