@@ -44,17 +44,15 @@ Also known as Fundamentals, Foundations, Inner Circle.
 
 <br>
 
-## 📧 Contact Me Through Slack
+## [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pasqualerossi1/) Connect With Me On [LinkedIn](https://www.linkedin.com/in/pasqualerossi1/)
 
-[@prossi](https://42born2code.slack.com/team/U2JE3L1L0)
+![Screenshot (1)](https://user-images.githubusercontent.com/58959408/228411211-0f48ab61-e97e-45b3-a98d-4103d42f4814.png)
 
 <br>
 
-## 🦸 Support This GitHub
+## 📧 Contact Me Through Slack
 
-#### Feel free to donate to this Github Account.
-
-<kbd> <br> [Donate Here](https://github.com/sponsors/pasqualerossi) <br> </kbd>
+[@prossi](https://42born2code.slack.com/team/U2JE3L1L0)
 
 <br>
 
@@ -62,12 +60,6 @@ Also known as Fundamentals, Foundations, Inner Circle.
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
-
-<br>
-
-## [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pasqualerossi1/) Connect With Me On [LinkedIn](https://www.linkedin.com/in/pasqualerossi1/)
-
-<img width="681" alt="Screen Shot 2023-02-01 at 5 26 17 PM" src="https://user-images.githubusercontent.com/58959408/215972906-09b46a5d-bd6b-4e2c-8728-9e0912e1c872.png">
 
 <br>
 
