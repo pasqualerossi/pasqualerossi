@@ -2,7 +2,10 @@
 
 ### 42 Piscine
 
-| 🎓  &nbsp; [Piscine Projects - Click Here](https://github.com/pasqualerossi/42-Piscine-Guide)| 
+| 🖥️  &nbsp; [Piscine Overview - Click Here](https://github.com/pasqualerossi/42-Piscine-Guide)| 
+|:--|
+
+| 🎓  &nbsp; [Piscine C Projects - Click Here](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects)| 
 |:--|
 
 | :keyboard:  &nbsp; [Piscine Exams - Click Here](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam)| 
@@ -21,6 +24,8 @@ Also known as Fundamentals, Foundations, Inner Circle.
 
 
 ### 42 Specialisation
+
+Also known as Outer Circle.
 
 | :iphone:  &nbsp;  [App Developemnt Overview - Click Here](https://github.com/pasqualerossi/42-Specialisation)|
 |:--|
