@@ -54,7 +54,7 @@ Also known as Outer Circle.
 
 ## [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pasqualerossi1/) Connect With Me On [LinkedIn](https://www.linkedin.com/in/pasqualerossi1/)
 
-![Screenshot (1)](https://user-images.githubusercontent.com/58959408/228411211-0f48ab61-e97e-45b3-a98d-4103d42f4814.png)
+[![Screenshot (1)](https://user-images.githubusercontent.com/58959408/228411211-0f48ab61-e97e-45b3-a98d-4103d42f4814.png)](https://www.linkedin.com/in/pasqualerossi1/) 
 
 <br>
 
