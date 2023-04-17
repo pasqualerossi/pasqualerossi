@@ -22,6 +22,11 @@ Also known as Fundamentals, Foundations, Inner Circle.
 | :keyboard:  &nbsp; [Common Core Exams - Click Here](https://github.com/pasqualerossi/42-Exams)| 
 |:--|
 
+🔔 ```Coming Soon``` 🔽
+
+| 🌑  &nbsp; [Common Core BlackHole - Click Here](https://github.com/pasqualerossi/42-Projects-Guide)|
+|:--|
+
 
 ### 42 Specialisation
 
