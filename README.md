@@ -49,6 +49,16 @@ Also known as Outer Circle.
 
 <br>
 
+## :superhero_man: Currently Working On
+
+[Ft_Transcendence](https://github.com/pasqualerossi/Transcendence) - A Web Application With The Following:
+
+- Pong Game :ping_pong: 
+- Chat with Friends :speaking_head:
+- Your Own Profile With Stats :1234:
+
+<br>
+
 ## 4️⃣2️⃣ My 42 Details
 
 [Link To My 42Intra](https://profile.intra.42.fr/users/prossi)
