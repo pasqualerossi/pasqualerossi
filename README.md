@@ -13,6 +13,7 @@
 | :keyboard:  &nbsp; [Piscine Exams - Click Here](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam)| 
 |:--|
 
+<br>
 
 ### 42 Common Core Student
 
@@ -27,6 +28,7 @@ Also known as Fundamentals, Foundations, Inner Circle.
 | 🌑  &nbsp; [Common Core BlackHole - Click Here](https://github.com/pasqualerossi/42-Projects-Guide)|
 |:--|
 
+<br>
 
 ### 42 Specialisation Student
 
@@ -41,6 +43,7 @@ Also known as Outer Circle.
 | :iphone:  &nbsp;  [Mobile App Projects - Click Here](https://github.com/pasqualerossi/42-Mobile-Development)|
 |:--|
 
+<br>
 
 ### 42 Campus Resources
 
