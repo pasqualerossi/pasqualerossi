@@ -2,7 +2,7 @@
 
 ## 🧙 What Are You Looking For?
 
-### 42 Piscine
+### 42 Piscine Student
 
 | 🖥️  &nbsp; [Piscine Overview - Click Here](https://github.com/pasqualerossi/42-Piscine-Guide)| 
 |:--|
@@ -14,7 +14,7 @@
 |:--|
 
 
-### 42 Common Core
+### 42 Common Core Student
 
 Also known as Fundamentals, Foundations, Inner Circle.
 
@@ -28,7 +28,7 @@ Also known as Fundamentals, Foundations, Inner Circle.
 |:--|
 
 
-### 42 Specialisation
+### 42 Specialisation Student
 
 Also known as Outer Circle.
 
