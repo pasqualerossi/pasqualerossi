@@ -46,7 +46,7 @@ Also known as Outer Circle.
 
 <br>
 
-## :superhero_man: Currently Working On
+## :superhero_man: Working On
 
 [Ft_Transcendence](https://github.com/pasqualerossi/Transcendence) - A Web Application With The Following:
 
@@ -83,7 +83,7 @@ Also known as Outer Circle.
 
 <br>
 
-## 🧑‍💻 My Current Technical Skills
+## 🧑‍💻 Current Technical Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,html,css,github,git,figma,xd,visualstudio)](https://skillicons.dev)
 
@@ -97,7 +97,7 @@ Also known as Outer Circle.
 
 <br>
 
-## 💻 Skills I'm Currently Acquiring
+## 🌱 Currently Learning
 
 [![My Skills](https://skillicons.dev/icons?i=swift,kotlin,androidstudio,js,firebase)](https://skillicons.dev)
 
