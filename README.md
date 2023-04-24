@@ -48,6 +48,8 @@ Also known as Outer Circle.
 
 ## :superhero_man: Working On
 
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,nextjs,nestjs,react,materialui,vue,docker,prisma,postgres)](https://skillicons.dev)
+
 [Ft_Transcendence](https://github.com/pasqualerossi/Transcendence) - A Web Application With The Following:
 
 - Pong Game :ping_pong: 
