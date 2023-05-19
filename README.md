@@ -46,6 +46,13 @@
 
 <br>
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
+
+<br>
+
 ## :superhero_man: Currently Working On
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,nextjs,nestjs,react,materialui,vue,docker,prisma,postgres)](https://skillicons.dev)
@@ -75,13 +82,6 @@
 ## 📧 Contact Me Through Slack
 
 [@prossi](https://42born2code.slack.com/team/U2JE3L1L0)
-
-<br>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
 
 <br>
 
