@@ -2,7 +2,7 @@
 
 ## 🔭 What Are You Looking For?
 
-### 42 Piscine Student
+### :elf: 42 Piscine Student
 
 | 🖥️  &nbsp; [Piscine Overview - Click Here](https://github.com/pasqualerossi/42-Piscine-Guide)| 
 |:--|
@@ -13,9 +13,9 @@
 | :keyboard:  &nbsp; [Piscine Exams - Click Here](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam)| 
 |:--|
 
-### 42 Common Core Student
+### :vampire: 42 Common Core Student
 
-Also known as Fundamentals, Foundations, Inner Circle.
+`Also known as Fundamentals, Foundations or Inner Circle.`
 
 | 🖥️  &nbsp; [Common Core Projects - Click Here](https://github.com/pasqualerossi/42-Projects-Guide)|
 |:--|
@@ -26,9 +26,9 @@ Also known as Fundamentals, Foundations, Inner Circle.
 | 🌑  &nbsp; [Common Core BlackHole - Click Here](https://github.com/pasqualerossi/42-Projects-Guide)|
 |:--|
 
-### 42 Specialisation Student
+### :mage: 42 Specialisation Student
 
-Also known as Outer Circle.
+`Also known as Outer Circle.`
 
 | :iphone:  &nbsp;  [App Developemnt Overview - Click Here](https://github.com/pasqualerossi/42-Specialisation)|
 |:--|
