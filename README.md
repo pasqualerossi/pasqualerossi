@@ -69,8 +69,7 @@ Thankyou so much everyone for visiting this GitHub Repo, we have reached **over 
 
 ### Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=nestjs)](https://skillicons.dev) 
-NestJS
+- NestJS
 - NodeJS
 - TypeScript
 - PostgreSQL
