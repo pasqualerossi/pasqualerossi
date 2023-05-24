@@ -1,5 +1,11 @@
 ![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f363837343734373037333361326632663639326537303639366536393664363732653633366636643266366637323639363736393665363136](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
+## :mega: Announcement
+
+Thankyou so much everyone for visiting this GitHub Repo, we have reached **over 100K views!**
+
+<img width="652" alt="Screen Shot 2023-05-24 at 12 32 27 PM" src="https://github.com/pasqualerossi/pasqualerossi/assets/58959408/cbbd8e2a-88d3-4d02-96a5-856ad45b0c5a">
+
 ## 🔭 What Are You Looking For?
 
 ### :elf: 42 Piscine Student
@@ -55,13 +61,22 @@
 
 ## :superhero_man: Currently Working On
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,nextjs,nestjs,react,materialui,vue,docker,prisma,postgres)](https://skillicons.dev)
-
 [Ft_Transcendence](https://github.com/pasqualerossi/Transcendence) - A Web Application With The Following:
 
 - Pong Game :ping_pong: 
 - Chat with Friends :speaking_head:
 - Your Own Profile With Stats :1234:
+
+### Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=nestjs)](https://skillicons.dev) 
+NestJS
+- NodeJS
+- TypeScript
+- PostgreSQL
+- Docker
+
+[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,ts,postgres,docker)](https://skillicons.dev)
 
 <br>
 
