@@ -2,7 +2,7 @@
 
 ## :partying_face: Announcement
 
-Thankyou so much everyone for visiting this GitHub Repo, we have reached **over 100K views!**
+:sparkles: Thankyou so much everyone for visiting this GitHub Repo, we have reached **over 100K views!** :tada:
 
 <img width="652" alt="Screen Shot 2023-05-24 at 12 32 27 PM" src="https://github.com/pasqualerossi/pasqualerossi/assets/58959408/cbbd8e2a-88d3-4d02-96a5-856ad45b0c5a">
 
