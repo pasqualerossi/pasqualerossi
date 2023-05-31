@@ -66,10 +66,10 @@
 
 ### Technologies
 - VueJS - JavaScript UI Framework
-- TypeScript - JavaScript Typed Superset
+- TypeScript - Typed JavaScript
 - NodeJS - Server-Side JavaScript
-- PostgreSQL - Open-Source Relational Database
-- Docker - Containerisation Platform
+- PostgreSQL - Open-Source Database
+- Docker - Container Platform
 
 [![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,ts,postgres,docker)](https://skillicons.dev)
 
