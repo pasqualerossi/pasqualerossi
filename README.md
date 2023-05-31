@@ -29,9 +29,6 @@
 | :keyboard:  &nbsp; [Common Core Exams - Click Here](https://github.com/pasqualerossi/42-Exams)| 
 |:--|
 
-| 🌑  &nbsp; [Common Core BlackHole - Click Here](https://github.com/pasqualerossi/42-Projects-Guide)|
-|:--|
-
 ### :mage: 42 Specialisation Student
 
 `Also known as Outer Circle.`
