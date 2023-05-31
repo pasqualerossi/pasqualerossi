@@ -65,12 +65,11 @@
 - Your Own Profile With Stats :1234:
 
 ### Technologies
-
-- NestJS
-- NodeJS
-- TypeScript
-- PostgreSQL
-- Docker
+- VueJS - JavaScript UI Framework
+- TypeScript - JavaScript Typed Superset
+- NodeJS - Server-Side JavaScript
+- PostgreSQL - Open-Source Relational Database
+- Docker - Containerisation Platform
 
 [![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,ts,postgres,docker)](https://skillicons.dev)
 
