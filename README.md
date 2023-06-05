@@ -97,15 +97,25 @@
 
 ## 🧑‍💻 Current Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,html,css,github,git,figma,xd,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,html,css,github,git,visualstudio)](https://skillicons.dev)
 
 <br>
 
 > :desktop_computer:  Languages - C | C++ | Markdown | Bash | HTML | CSS
 
-> :hammer_and_wrench:  Tools - Figma | Adobe XD | Git | GitHub | Stack Overflow
+> :hammer_and_wrench:  Tools - Git | GitHub | Stack Overflow
 
 > :atom:  IDEs - Vim | Visual Studio | Visual Studio Code
+
+<br>
+
+## :artist: Current Design Skills
+
+[![My Skills](https://skillicons.dev/icons?i=figma,xd,webflow,ae,wordpress)](https://skillicons.dev)
+
+<br>
+
+> :desktop_computer:  Tools - Figma | Adobe XD | Webflow | Adobe Suite | Wordpress
 
 <br>
 
