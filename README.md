@@ -85,7 +85,7 @@
 
 ## [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pasqualerossi1/) Connect With Me On [LinkedIn](https://www.linkedin.com/in/pasqualerossi1/)
 
-[![Screenshot (1)](https://user-images.githubusercontent.com/58959408/228411211-0f48ab61-e97e-45b3-a98d-4103d42f4814.png)](https://www.linkedin.com/in/pasqualerossi1/) 
+<img width="796" alt="Screen Shot 2023-06-05 at 12 39 11 PM" src="https://github.com/pasqualerossi/pasqualerossi/assets/58959408/cd3292ec-d5d8-4448-9e09-5a84c8701eab">
 
 <br>
 
