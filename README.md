@@ -8,33 +8,28 @@
 
 ## :elf: 42 Piscine Student
 
+`42 Piscine Guide`
 | 🖥️  &nbsp; [Piscine Overview - Click Here](https://github.com/pasqualerossi/42-Piscine-Guide)| 
 |:--|
 
-`42 Piscine Guide`
-
+`From C00 to C07`
 | 🎓  &nbsp; [Piscine C Projects - Click Here](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects)| 
 |:--|
 
-`From C00 to C07`
-
+`From C Piscine Exam 00 To C Piscine Final Exam`
 | :keyboard:  &nbsp; [Piscine Exams - Click Here](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam)| 
 |:--|
 
-`From C Piscine Exam 00 To C Piscine Final Exam`
 
 ## :vampire: 42 Common Core Student
 
+`From Libft To Ft_Transcendence.`
 | 🖥️  &nbsp; [Common Core Projects - Click Here](https://github.com/pasqualerossi/42-Projects-Guide)|
 |:--|
 
-`From Libft To Ft_Transcendence.`
-
-
+`From Exam Rank 02 to Exam Rank 06`
 | :keyboard:  &nbsp; [Common Core Exams - Click Here](https://github.com/pasqualerossi/42-Exams)| 
 |:--|
-
-`From Exam Rank 02 to Exam Rank 06`
 
 ## :mage: 42 Specialisation Student
 
