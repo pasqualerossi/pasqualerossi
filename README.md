@@ -6,9 +6,7 @@
 
 <img width="435" alt="Screen Shot 2023-05-29 at 8 45 14 PM" src="https://github.com/pasqualerossi/pasqualerossi/assets/58959408/f8811937-190d-4ebb-8823-cd8f319ca875">
 
-## 🔭 What Are You Looking For?
-
-### :elf: 42 Piscine Student
+## :elf: 42 Piscine Student
 
 | 🖥️  &nbsp; [Piscine Overview - Click Here](https://github.com/pasqualerossi/42-Piscine-Guide)| 
 |:--|
@@ -19,7 +17,7 @@
 | :keyboard:  &nbsp; [Piscine Exams - Click Here](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam)| 
 |:--|
 
-### :vampire: 42 Common Core Student
+## :vampire: 42 Common Core Student
 
 `Also known as Fundamentals, Foundations or Inner Circle.`
 
@@ -29,7 +27,7 @@
 | :keyboard:  &nbsp; [Common Core Exams - Click Here](https://github.com/pasqualerossi/42-Exams)| 
 |:--|
 
-### :mage: 42 Specialisation Student
+## :mage: 42 Specialisation Student
 
 `Also known as Outer Circle.`
 
@@ -42,7 +40,7 @@
 | :iphone:  &nbsp;  [Mobile App Projects - Click Here](https://github.com/pasqualerossi/42-Mobile-Development)|
 |:--|
 
-### 42 Campus Resources
+## 42 Campus Resources
 
 | :hammer_and_wrench: &nbsp; [42 Resources - Click Here](https://github.com/pasqualerossi/42-Tools)|
 |:--|
