@@ -40,6 +40,12 @@
 
 <br>
 
+`Covering All Things Blackhole`
+| 🕳️  &nbsp; [Blackhole Guide - Click Here](https://medium.com/@benjaminmerchin/42-black-hole-deep-dive-cbc4b343c6b2)| 
+|:--|
+
+<br>
+
 ## :mage: 42 Specialisation Student
 
 | :iphone:  &nbsp;  [App Developemnt Overview - Click Here](https://github.com/pasqualerossi/42-Specialisation)|
