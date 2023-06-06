@@ -66,8 +66,8 @@
 
 ### Technologies
 - VueJS - JavaScript UI Framework
-- TypeScript - Typed JavaScript
 - NodeJS - Server-Side JavaScript
+- TypeScript - Typed JavaScript
 - PostgreSQL - Open-Source Database
 - Docker - Container Platform
 
