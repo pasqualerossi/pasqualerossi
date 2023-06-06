@@ -41,7 +41,7 @@
 <br>
 
 `Covering All Things Blackhole`
-| 🕳️  &nbsp; [Blackhole Guide - Click Here](https://medium.com/@benjaminmerchin/42-black-hole-deep-dive-cbc4b343c6b2)| 
+| 🕳️  &nbsp; [42 Blackhole Guide - Click Here](https://medium.com/@benjaminmerchin/42-black-hole-deep-dive-cbc4b343c6b2)| 
 |:--|
 
 <br>
