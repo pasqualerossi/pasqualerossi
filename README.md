@@ -12,14 +12,19 @@
 | 🖥️  &nbsp; [Piscine Overview - Click Here](https://github.com/pasqualerossi/42-Piscine-Guide)| 
 |:--|
 
+<br>
+
 `From C00 to C07`
 | 🎓  &nbsp; [Piscine C Projects - Click Here](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects)| 
 |:--|
+
+<br>
 
 `From C Piscine Exam 00 To C Piscine Final Exam`
 | :keyboard:  &nbsp; [Piscine Exams - Click Here](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam)| 
 |:--|
 
+<br>
 
 ## :vampire: 42 Common Core Student
 
@@ -27,9 +32,13 @@
 | 🖥️  &nbsp; [Common Core Projects - Click Here](https://github.com/pasqualerossi/42-Projects-Guide)|
 |:--|
 
+<br>
+
 `From Exam Rank 02 to Exam Rank 06`
 | :keyboard:  &nbsp; [Common Core Exams - Click Here](https://github.com/pasqualerossi/42-Exams)| 
 |:--|
+
+<br>
 
 ## :mage: 42 Specialisation Student
 
@@ -42,12 +51,14 @@
 | :iphone:  &nbsp;  [Mobile App Projects - Click Here](https://github.com/pasqualerossi/42-Mobile-Development)|
 |:--|
 
+<br>
+
 ## 42 Campus Resources
 
+`42 Campus Tools and Resources`
 | :hammer_and_wrench: &nbsp; [42 Resources - Click Here](https://github.com/pasqualerossi/42-Tools)|
 |:--|
 
-`42 Campus Tools and Resources`
 
 <br>
 
