@@ -79,7 +79,7 @@
 
 ### Technologies
 - VueJS - JavaScript UI Framework
-- NodeJS - Server-Side JavaScript
+- NestJS - Server-Side Development using NodeJS
 - TypeScript - Typed JavaScript
 - PostgreSQL - Open-Source Database
 - Docker - Container Platform
