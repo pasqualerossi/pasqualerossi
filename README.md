@@ -11,25 +11,32 @@
 | 🖥️  &nbsp; [Piscine Overview - Click Here](https://github.com/pasqualerossi/42-Piscine-Guide)| 
 |:--|
 
+`42 Piscine Guide`
+
 | 🎓  &nbsp; [Piscine C Projects - Click Here](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects)| 
 |:--|
+
+`From C00 to C07`
 
 | :keyboard:  &nbsp; [Piscine Exams - Click Here](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam)| 
 |:--|
 
-## :vampire: 42 Common Core Student
+`From C Piscine Exam 00 To C Piscine Final Exam`
 
-`Also known as Fundamentals, Foundations or Inner Circle.`
+## :vampire: 42 Common Core Student
 
 | 🖥️  &nbsp; [Common Core Projects - Click Here](https://github.com/pasqualerossi/42-Projects-Guide)|
 |:--|
 
+`From Libft To Ft_Transcendence.`
+
+
 | :keyboard:  &nbsp; [Common Core Exams - Click Here](https://github.com/pasqualerossi/42-Exams)| 
 |:--|
 
-## :mage: 42 Specialisation Student
+`From Exam Rank 02 to Exam Rank 06`
 
-`Also known as Outer Circle.`
+## :mage: 42 Specialisation Student
 
 | :iphone:  &nbsp;  [App Developemnt Overview - Click Here](https://github.com/pasqualerossi/42-Specialisation)|
 |:--|
@@ -44,6 +51,8 @@
 
 | :hammer_and_wrench: &nbsp; [42 Resources - Click Here](https://github.com/pasqualerossi/42-Tools)|
 |:--|
+
+`42 Campus Tools and Resources`
 
 <br>
 
