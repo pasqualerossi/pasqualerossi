@@ -84,7 +84,7 @@
 - PostgreSQL - Open-Source Database
 - Docker - Container Platform
 
-[![My Skills](https://skillicons.dev/icons?i=vue,ts,nestjs,postgres,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,nestjs,ts,postgres,docker)](https://skillicons.dev)
 
 <br>
 
