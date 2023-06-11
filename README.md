@@ -2,9 +2,7 @@
 
 ## :partying_face: Announcement
 
-:sparkles: Thankyou so much everyone for visiting this GitHub Repo, we are almost at **110,000 Views!** :tada:
-
-<img width="435" alt="Screen Shot 2023-05-29 at 8 45 14 PM" src="https://github.com/pasqualerossi/pasqualerossi/assets/58959408/f8811937-190d-4ebb-8823-cd8f319ca875">
+:sparkles: Thankyou so much everyone for visiting this GitHub Repo, we have over **110,000 Views!** :tada:
 
 ## :elf: 42 Piscine Student
 
