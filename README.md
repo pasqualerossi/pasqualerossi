@@ -138,17 +138,17 @@
 
 ## 🌱 Currently Learning
 
-[![My Skills](https://skillicons.dev/icons?i=swift,kotlin,androidstudio,js,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,kotlin,androidstudio,docker,js,vuejs,nodejs,nestjs,firebase,postgresql)](https://skillicons.dev)
 
 <br>
 
-> :desktop_computer:  Languages - Swift | Kotlin | JavaScript
+> :desktop_computer:  Languages - Swift | Kotlin | JavaScript | TypeScript 
 
-> :atom:  IDEs - Xcode | Android Studio
+> 🧰 Tools - Xcode | Android Studio | Virtual Machine | Docker
 
-> :framed_picture: Frameworks - SwiftUI | Jetpack Compose
+> :framed_picture: Frameworks - SwiftUI | Jetpack Compose | VueJS | NodeJS | NestJS
 
-> :fire: Database - Firebase
+> :fire: Database - Firebase | PostgreSQL
 
 <br>
 
