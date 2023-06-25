@@ -40,19 +40,6 @@
 
 <br>
 
-## :mage: 42 Specialisation Student
-
-| :iphone:  &nbsp;  [App Developemnt Overview - Click Here](https://github.com/pasqualerossi/42-Specialisation)|
-|:--|
-
-| :iphone:  &nbsp;  [Swift iOS Piscine - Click Here](https://github.com/pasqualerossi/Swift-Piscine)|
-|:--|
-
-| :iphone:  &nbsp;  [Mobile App Projects - Click Here](https://github.com/pasqualerossi/42-Mobile-Development)|
-|:--|
-
-<br>
-
 ## 42 Campus Resources
 
 `42 Campus Tools and Resources`
