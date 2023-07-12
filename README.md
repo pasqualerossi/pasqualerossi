@@ -2,7 +2,9 @@
 
 # :bell: Announcement
 
-### :pause_button: Temporary Pause On This GitHub Account, no new updates will be made for the month of July 2023. 
+### :pause_button: Temporary Pause On This GitHub Account.
+
+Due to unexcepted personal circumstances, no new updates will be made for the month of July 2023.
 
 <br>
 <br>
