@@ -85,26 +85,6 @@ Due to unexcepted personal circumstances, no new updates for this GitHub Repo wi
 
 <br>
 
-## 4️⃣2️⃣ My 42 Details
-
-[Link To My 42Intra](https://profile.intra.42.fr/users/prossi)
-
-[![prossi's 42 stats](https://badge.mediaplus.ma/darkblue/prossi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
-<br>
-
-## [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pasqualerossi1/) Connect With Me On [LinkedIn](https://www.linkedin.com/in/pasqualerossi1/)
-
-<img width="796" alt="Screen Shot 2023-06-05 at 12 41 39 PM" src="https://github.com/pasqualerossi/pasqualerossi/assets/58959408/8bccf580-d9e2-49ec-88b4-d0e95e144031">
-
-<br>
-
-## 📧 Contact Me Through Slack
-
-[@prossi](https://42born2code.slack.com/team/U2JE3L1L0)
-
-<br>
-
 ## 🧑‍💻 Current Technical Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,html,css,github,git,visualstudio)](https://skillicons.dev)
