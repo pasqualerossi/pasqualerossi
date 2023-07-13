@@ -4,7 +4,7 @@
 
 ### :pause_button: Temporary Pause On This GitHub Account.
 
-Due to unexcepted personal circumstances, no new updates will be made for the month of July 2023. Thankyou for your understanding.
+Due to unexcepted personal circumstances, no new updates for this GitHub Repo will be made for the month of July 2023. Thankyou for your understanding.
 
 <br>
 <br>
