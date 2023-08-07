@@ -85,9 +85,52 @@
 
 > 🖥️ Web Design and Development - Framer | Wix | Webflow | Wordpress
 
+<details>
+  <summary>💻 See More Design Skills</summary>
+  
+## 🧍 User
+
+### User Proccess
+- User Research and Analysis 
+- Persona Creation and Empathy Mapping
+- User Stories, Flows and Journey Mapping
+- Conducting User Interviews and Surveys
+- Storyboarding and User Story Creation
+- User Onboarding and User Training
+- Iterative User Testing and Feedback Incorporation
+- User Behavior Tracking
+- Usability Testing
+
+### Design Proccess
+- Accessibility and Inclusive Design
+- Gamification and Behavioral Design
+- Multilingual and Multicultural Design Considerations
+- Competitor Analysis and Benchmarking
+- A/B Testing and Iterative Design
+
 <br>
 
-💻 [See More Design Skills and Experience](https://github.com/pasqualerossi/UX-User-Experience)
+## 💻 Development
+
+- Design Systems and Libraries
+- Wireframing, Mockups and Prototyping
+- Interactions, Microinteractions and Motion Design
+- Information Architecture
+- Collaboration with Cross-Functional Teams and Stakeholders
+- Multi-Device and Responsive Design 
+    - 🖥️ Web 
+    - 📱 Mobile 
+    - :window: Tablet 
+    - 👓 AR/VR 
+    - 🖥️ Dashboard 
+    - ⌚ Watch 
+    - 📺 TV 
+    - 🎮 Consoles 
+    - 📺 Presentations 
+    - 📶 Smart Home Devices and Applications 
+    - :placard: Digital Signage and Billboards 
+    - ✋Kiosks
+</details>
 
 <br>
 
