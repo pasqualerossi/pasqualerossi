@@ -57,25 +57,6 @@
 
 <br>
 
-## :superhero_man: Currently Working On
-
-[Ft_Transcendence](https://github.com/pasqualerossi/Transcendence) - A Web Application With The Following:
-
-- Pong Game :ping_pong: 
-- Chat with Friends :speaking_head:
-- Your Own Profile With Stats :1234:
-
-### Technologies
-- VueJS - JavaScript UI Framework
-- NestJS - Server-Side Development using NodeJS
-- TypeScript - Typed JavaScript
-- PostgreSQL - Open-Source Database
-- Docker - Container Platform
-
-[![My Skills](https://skillicons.dev/icons?i=vue,nestjs,ts,postgres,docker)](https://skillicons.dev)
-
-<br>
-
 ## 🧑‍💻 Current Technical Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,html,css,github,git,visualstudio)](https://skillicons.dev)
@@ -96,7 +77,13 @@
 
 <br>
 
-> :desktop_computer:  Tools - Figma | Adobe XD | Webflow | Adobe Suite | Wordpress
+> :desktop_computer:  Design Tools - Figma | Adobe XD | Canva | Sketch | InVision | Balsamiq | Marvel | Proto
+
+> 🛌 Digital Suites - Adobe Suite | Microsoft Office | Google Suite
+
+> 🗣️ Team Tools - Slack | Miro | Trello | Notion | Mural | Jira | Asana
+
+> 🖥️ Web Design and Development - Framer | Wix | Webflow | Wordpress
 
 <br>
 
@@ -106,7 +93,7 @@
 
 <br>
 
-> :desktop_computer:  Languages - Swift | Kotlin | JavaScript | TypeScript 
+> :desktop_computer:  Languages - Swift | Kotlin | JavaScript | TypeScript
 
 > 🧰 Tools - Xcode | Android Studio | Virtual Machine | Docker
 
