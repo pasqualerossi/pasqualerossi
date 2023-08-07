@@ -87,6 +87,10 @@
 
 <br>
 
+💻 [See More Design Skills and Experience](https://github.com/pasqualerossi/UX-User-Experience)
+
+<br>
+
 ## 🌱 Currently Learning
 
 [![My Skills](https://skillicons.dev/icons?i=swift,kotlin,androidstudio,docker,js,vuejs,nodejs,nestjs,firebase,postgresql)](https://skillicons.dev)
