@@ -81,47 +81,77 @@
   <summary>💻 See More Design Skills</summary>
   
 ## 🧍 User
+  📊 User Research and Analysis 
 
-### User Proccess
-- User Research and Analysis 
-- Persona Creation and Empathy Mapping
-- User Stories, Flows and Journey Mapping
-- Conducting User Interviews and Surveys
-- Storyboarding and User Story Creation
-- User Onboarding and User Training
-- Iterative User Testing and Feedback Incorporation
-- User Behavior Tracking
-- Usability Testing
+  🗺️ Persona Creation and Empathy Mapping
 
-### Design Proccess
-- Accessibility and Inclusive Design
-- Gamification and Behavioral Design
-- Multilingual and Multicultural Design Considerations
-- Competitor Analysis and Benchmarking
-- A/B Testing and Iterative Design
+  📖 User Stories, Flows and Journey Mapping
+
+  🗣️ Conducting User Interviews and Surveys
+
+  📑 Storyboarding and User Story Creation
+
+  🧑‍🏫 User Onboarding and User Training
+
+  ❓ Iterative User Testing and Feedback Incorporation
+
+  📷 User Behavior Tracking
+
+  💻 Usability Testing
+
+<br>
+
+## 🖋️ Design
+    
+  👁️ Accessibility and Inclusive Design
+  
+  🥅 Gamification and Behavioral Design
+  
+  🌐 Multilingual and Multicultural Design Considerations
+  
+  🛒 Competitor Analysis and Benchmarking
+  
+  🖥️ A/B Testing and Iterative Design
 
 <br>
 
 ## 💻 Development
 
-- Design Systems and Libraries
-- Wireframing, Mockups and Prototyping
-- Interactions, Microinteractions and Motion Design
-- Information Architecture
-- Collaboration with Cross-Functional Teams and Stakeholders
-- Multi-Device and Responsive Design 
-    - 🖥️ Web 
-    - 📱 Mobile 
-    - :window: Tablet 
-    - 👓 AR/VR 
-    - 🖥️ Dashboard 
-    - ⌚ Watch 
-    - 📺 TV 
-    - 🎮 Consoles 
-    - 📺 Presentations 
-    - 📶 Smart Home Devices and Applications 
-    - :placard: Digital Signage and Billboards 
-    - ✋Kiosks
+  📑 Design Systems and Libraries
+  
+  🗒️ Wireframing, Mockups and Prototyping
+  
+  🖱️ Interactions, Microinteractions and Motion Design
+  
+  🏗️ Information Architecture
+  
+  📢 Collaboration with Cross-Functional Teams and Stakeholders
+  
+  🧑‍💻 Multi-Device and Responsive Design
+  > 🖥️ Web
+ 
+  > 📱 Mobile
+
+  > :window: Tablet
+ 
+  > 👓 AR/VR
+
+  > 🖥️ Dashboard
+
+  > ⌚ Watch
+
+  > 📺 TV
+
+  > 🎮 Consoles
+ 
+  > 📺 Presentations
+
+  > 📶 Smart Home Devices and Applications
+ 
+  > :placard: Digital Signage and Billboards
+
+  > ✋Kiosks
+    
 </details>
 
 <br>
