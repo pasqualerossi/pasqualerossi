@@ -22,7 +22,7 @@
   
   🖊️ Designer | UI - UX - CX - Product - Service - Visual - Interaction - Multi-Channel
 
-  📱 UX | Designer = Researcher - Writer - Architect - Strategist - Analyst 
+  📱 UX | Designer - Researcher - Writer - Architect - Strategist - Analyst 
 
   🧰 Product | Manager - Owner - Development - Designer
 
