@@ -19,6 +19,8 @@
   <summary>🕴️The Roles I'm Searching For</summary>
  
   <br>
+
+  ## 🧑‍🎨 Design
   
   🖊️ UI | Designer - Product - Service - Visual - Interaction - Multi-Channel
 
@@ -27,6 +29,10 @@
   🧰 Product | Manager - Owner - Development - Designer
 
   🧑‍🦲 User | Researcher - Experience Designer
+
+  <br>
+
+  ## 🧑‍🎨 Business
 
   🧔 Consultant | Business - Technical - Planning
 
