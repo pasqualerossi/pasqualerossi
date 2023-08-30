@@ -13,57 +13,6 @@
 
 <br>
 
-👨‍💼 I'm currently on the hunt for Employment/Internship.
-
-<details>
-  <summary>🕴️The Roles I'm Searching For</summary>
- 
-  <br>
-
-  ## 🧑‍🎨 Design
-  
-  🖊️ UI | Designer - Product - Service - Visual - Interaction - Multi-Channel
-
-  📱 UX | Designer - Researcher - Writer - Architect - Strategist - Analyst 
-
-  🧰 Product | Manager - Owner - Development - Designer
-
-  🧑‍🦲 User | Researcher - Experience Designer
-
-  <br>
-
-  ## 🧑‍🎨 Business
-
-  🧔 Consultant | Business - Technical - Planning
-
-  💹 Analyst | Business - Technical - UX
-
-  🏗️ Architect | Solutions - Information - UX
-
-  🧠 Innovation | Manager - Consultant
-  
-  📈 Strategist | Content - UX - Planning
-
-  🕴️ Business | Process Improvement - Consultant
-  
-  🌐 Policy | Adviser - Consultant
-
-  🧔 Management | Commercialisation - Change
-  
-  🏢 Research and Development
-
-  <br>
-
-  > UI - User Interface
-
-  > UX - User Experience
-
-  > CX - Customer Experience
-  
-</details>
-
-<br>
-
 ## :elf: 42 Piscine Student
 
 `42 Piscine Guide`
