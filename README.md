@@ -20,7 +20,7 @@
  
   <br>
   
-  🖊️ Designer | UI - UX - CX - Product - Service - Visual - Interaction - Multi-Channel
+  🖊️ UI | Designer - Product - Service - Visual - Interaction - Multi-Channel
 
   📱 UX | Designer - Researcher - Writer - Architect - Strategist - Analyst 
 
@@ -45,6 +45,14 @@
   🧔 Management | Commercialisation - Change
   
   🏢 Research and Development
+
+  <br>
+
+  > UI - User Interface
+
+  > UX - User Experience
+
+  > CX - Customer Experience
   
 </details>
 
