@@ -168,20 +168,4 @@
 
 <br>
 
-## 🌱 Currently Learning
-
-[![My Skills](https://skillicons.dev/icons?i=swift,kotlin,androidstudio,docker,js,vuejs,nodejs,nestjs,firebase,postgresql)](https://skillicons.dev)
-
-<br>
-
-> :desktop_computer:  Languages - Swift | Kotlin | JavaScript | TypeScript
-
-> 🧰 Tools - Xcode | Android Studio | Virtual Machine | Docker
-
-> :framed_picture: Frameworks - SwiftUI | Jetpack Compose | VueJS | NodeJS | NestJS
-
-> :fire: Database - Firebase | PostgreSQL
-
-<br>
-
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
