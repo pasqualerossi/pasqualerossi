@@ -158,5 +158,4 @@
 ## 💼 What's Currently Happening With Me?
 On The Search 🔍 For A Role.
 
-![image_processing20191025-16564-10g5bob](https://github.com/pasqualerossi/pasqualerossi/assets/58959408/9b15c117-7e99-46e3-b397-e30227b62e04)
-
+![6f2b74113995595 603361b234cc4 (1)](https://github.com/pasqualerossi/pasqualerossi/assets/58959408/de107423-3719-4ece-9e63-61a24113b72b)
