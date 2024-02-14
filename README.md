@@ -154,8 +154,3 @@
 </details>
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
-
-## 💼 What's Currently Happening With Me?
-Completed The 42 Common Core And Am On The Search 🔍 For A Role.
-
-![OG-CQ767_201905_8SR_20190509154426](https://github.com/pasqualerossi/pasqualerossi/assets/58959408/762db6ff-57ad-49ef-ac37-77a1c742da6b)
