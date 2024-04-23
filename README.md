@@ -23,7 +23,7 @@
 ## :vampire: 42 Common Core Student
 
 `From Libft To Ft_Transcendence`
-| 🖥️  &nbsp; [Common Core Guide - Click Here](https://github.com/pasqualerossi/42-Projects-Guide)|
+| 🖥️  &nbsp; [Common Core Projects - Click Here](https://github.com/pasqualerossi/42-Projects-Guide)|
 |:--|
 
 <br>
