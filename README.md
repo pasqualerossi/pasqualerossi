@@ -9,7 +9,7 @@
 <br>
 
 `From C00 to C07`
-| 🎓  &nbsp; [Piscine Projects - Click Here](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects)| 
+| 🎓  &nbsp; [Piscine Modules - Click Here](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects)| 
 |:--|
 
 <br>
