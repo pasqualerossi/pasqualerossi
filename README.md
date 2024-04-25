@@ -2,49 +2,72 @@
 
 ## :elf: 42 Piscine Student
 
-`42 Piscine Guide`
-| 🖥️  &nbsp; [Piscine Overview - Click Here](https://github.com/pasqualerossi/42-Piscine-Guide)| 
-|:--|
+<table>
+<tr>
+<th>Piscine Modules</th>
+</tr>
+<tr>
 
-<br>
+<td>
 
-`From C00 to C07`
-| 🎓  &nbsp; [Piscine Modules - Click Here](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects)| 
-|:--|
+| [Piscine Guide](https://github.com/pasqualerossi/42-Piscine/tree/main)  | [C00](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c00) | [C01](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c01) | [C02](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c02) | [C03](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c03) | [C04](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c04) | [C05](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c05) | [C06](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c06) | [C07](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c07) |
+|--|--|--|--|--|--|--|--|--|
 
-<br>
+</td> </tr> </table>
 
-`From C Piscine Exam 00 To C Piscine Final Exam`
-| :keyboard:  &nbsp; [Piscine Exams - Click Here](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam)| 
-|:--|
+<table>
+<tr>
+<th>Piscine Exams</th>
+</tr>
+<tr>
+
+<td>
+
+| [Exam Guide](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam) | [Level 0](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%200) | [Level 1](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%201) | [Level 2](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%202) | [Level 3](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%203) |
+|--|--|--|--|--|
+
+</td> </tr> </table>
 
 <br>
 
 ## :vampire: 42 Common Core Student
 
-`From Libft To Ft_Transcendence`
-| 🖥️  &nbsp; [Common Core Projects - Click Here](https://github.com/pasqualerossi/42-Projects-Guide)|
-|:--|
 
-<br>
+</td>
 
-`From Exam Rank 02 to Exam Rank 06`
-| :keyboard:  &nbsp; [Common Core Exams - Click Here](https://github.com/pasqualerossi/42-Exams)| 
-|:--|
+</tr> </table>
 
-<br>
 
-`Covering All Things Blackhole`
-| 🕳️  &nbsp; [42 Blackhole Guide - Click Here](https://medium.com/@benjaminmerchin/42-black-hole-deep-dive-cbc4b343c6b2)| 
-|:--|
+<table>
+<tr>
+<th>Common Core Projects</th>
+</tr>
+<tr>
 
-<br>
+<td>
 
-## 💻 42 Campus Resources
+| [Common Core Guide](https://github.com/pasqualerossi/42-School-Guide) | [Libft](https://github.com/pasqualerossi/Libft) | [Born2BeRoot](https://github.com/pasqualerossi/Born2BeRoot-Guide)  | [Printf](https://github.com/pasqualerossi/Printf)   | [Get_Next_Line](https://github.com/pasqualerossi/Get_Next_Line) | [MiniTalk](https://github.com/pasqualerossi/MiniTalk)   | [So_Long](https://github.com/pasqualerossi/So_Long) | [Push_Swap](https://github.com/pasqualerossi/Push_Swap) |  [Philosophers](https://github.com/pasqualerossi/Philosophers)   | [Minishell](https://github.com/pasqualerossi/Minishell) | [NetPractice](https://github.com/pasqualerossi/NetPractice)   | [Cub3D](https://github.com/pasqualerossi/Cub3D)   | [C++ Modules](https://github.com/pasqualerossi/C-Plus-Plus) |  [IRC](https://github.com/pasqualerossi/IRC)   | [Inception](https://github.com/pasqualerossi/Inception) | [Transcendence](https://github.com/pasqualerossi/42_Transcendence) |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 
-`42 Campus Tools and Resources`
-| :hammer_and_wrench: &nbsp; [42 Resources - Click Here](https://github.com/pasqualerossi/42-Tools)|
-|:--|
+</td>
+
+
+</tr> </table>
+
+<table>
+<tr>
+<th>Common Core Exams</th>
+</tr>
+<tr>
+
+<td>
+
+| [Exam Guide](https://github.com/pasqualerossi/42-Exams) | [Exam Rank 02](https://github.com/pasqualerossi/42-School-Exam-Rank-02)  | [Exam Rank 03](https://github.com/pasqualerossi/42-School-Exam-Rank-03)  | [Exam Rank 04](https://github.com/pasqualerossi/42-School-Exam-Rank-04) | [Exam Rank 05](https://github.com/pasqualerossi/42-School-Exam-Rank-05)  | [Exam Rank 06](https://github.com/pasqualerossi/42-School-Exam-Rank-06)  |
+|--|--|--|--|--|--|
+
+</td>
+
+</tr> </table>
 
 <br>
 
