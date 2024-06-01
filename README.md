@@ -4,7 +4,7 @@
 
 <table>
 <tr>
-<th>Piscine Modules</th>
+<th align="left"> &nbsp; Piscine Modules</th>
 </tr>
 <tr>
 
@@ -17,7 +17,7 @@
 
 <table>
 <tr>
-<th>Piscine Exams</th>
+<th align="left"> &nbsp; Piscine Exams</th>
 </tr>
 <tr>
 
@@ -40,7 +40,7 @@
 
 <table>
 <tr>
-<th>Common Core Projects</th>
+<th align="left"> &nbsp; Common Core Projects</th>
 </tr>
 <tr>
 
@@ -56,7 +56,7 @@
 
 <table>
 <tr>
-<th>Common Core Exams</th>
+<th align="left"> &nbsp; Common Core Exams</th>
 </tr>
 <tr>
 
