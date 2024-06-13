@@ -23,7 +23,7 @@
 
 <td>
 
-| [Exam Guide](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam) | [Level 0](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%200) | [Level 1](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%201) | [Level 2](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%202) | [Level 3](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%203) |
+| [Piscine Exam Guide](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam) | [Level 0](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%200) | [Level 1](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%201) | [Level 2](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%202) | [Level 3](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%203) |
 |--|--|--|--|--|
 
 </td> </tr> </table>
@@ -62,7 +62,7 @@
 
 <td>
 
-| [Exam Guide](https://github.com/pasqualerossi/42-Exams) | [Exam Rank 02](https://github.com/pasqualerossi/42-School-Exam-Rank-02)  | [Exam Rank 03](https://github.com/pasqualerossi/42-School-Exam-Rank-03)  | [Exam Rank 04](https://github.com/pasqualerossi/42-School-Exam-Rank-04) | [Exam Rank 05](https://github.com/pasqualerossi/42-School-Exam-Rank-05)  | [Exam Rank 06](https://github.com/pasqualerossi/42-School-Exam-Rank-06)  |
+| [Common Core Exam Guide](https://github.com/pasqualerossi/42-Exams) | [Exam Rank 02](https://github.com/pasqualerossi/42-School-Exam-Rank-02)  | [Exam Rank 03](https://github.com/pasqualerossi/42-School-Exam-Rank-03)  | [Exam Rank 04](https://github.com/pasqualerossi/42-School-Exam-Rank-04) | [Exam Rank 05](https://github.com/pasqualerossi/42-School-Exam-Rank-05)  | [Exam Rank 06](https://github.com/pasqualerossi/42-School-Exam-Rank-06)  |
 |--|--|--|--|--|--|
 
 </td>
