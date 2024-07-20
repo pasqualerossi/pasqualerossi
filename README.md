@@ -40,7 +40,7 @@
 
 <table>
 <tr>
-<th align="left"> &nbsp; Common Core Projects</th>
+<th align="left"> &nbsp; Common Core Projects - From Libft To Transcendence.</th>
 </tr>
 <tr>
 
@@ -56,7 +56,7 @@
 
 <table>
 <tr>
-<th align="left"> &nbsp; Common Core Exams</th>
+<th align="left"> &nbsp; Common Core Exams - From Exam Rank 02 To 06.</th>
 </tr>
 <tr>
 
