@@ -32,31 +32,25 @@
 
 ## :vampire: 42 Common Core Student
 
-
-</td>
-
-</tr> </table>
-
-
 <table>
 <tr>
-<th align="left"> &nbsp; Common Core Projects - From Libft To Transcendence.</th>
+<th align="left"> &nbsp; Common Core Projects</th>
 </tr>
 <tr>
 
 <td>
 
-| [Common Core Guide](https://github.com/pasqualerossi/42-School-Guide) | [Libft](https://github.com/pasqualerossi/Libft) | [Born2BeRoot](https://github.com/pasqualerossi/Born2BeRoot-Guide)  | [Printf](https://github.com/pasqualerossi/Printf)   | [Get_Next_Line](https://github.com/pasqualerossi/Get_Next_Line) | [MiniTalk](https://github.com/pasqualerossi/MiniTalk)   | [So_Long](https://github.com/pasqualerossi/So_Long) | [Push_Swap](https://github.com/pasqualerossi/Push_Swap) |  [Philosophers](https://github.com/pasqualerossi/Philosophers)   | [Minishell](https://github.com/pasqualerossi/Minishell) | [NetPractice](https://github.com/pasqualerossi/NetPractice)   | [Cub3D](https://github.com/pasqualerossi/Cub3D)   | [C++ Modules](https://github.com/pasqualerossi/C-Plus-Plus) |  [IRC](https://github.com/pasqualerossi/IRC)   | [Inception](https://github.com/pasqualerossi/Inception) | [Transcendence](https://github.com/pasqualerossi/42_Transcendence) |
-|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| Guide | Circle 0  | Circle 1 | Circle 2  | Circle 3 | Circle 4 | Circle 5 | Circle 6 | 
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Common Core Guide](https://github.com/pasqualerossi/42-School-Guide) | [Libft](https://github.com/pasqualerossi/Libft)  | [Born2BeRoot](https://github.com/pasqualerossi/Born2BeRoot-Guide)  | [MiniTalk](https://github.com/pasqualerossi/MiniTalk)  | [Philosophers](https://github.com/pasqualerossi/Philosophers)  | [NetPractice](https://github.com/pasqualerossi/NetPractice)  | [Inception](https://github.com/pasqualerossi/Inception)  | [Transcendence](https://github.com/pasqualerossi/42_Transcendence)  | |
+| |        | [Printf](https://github.com/pasqualerossi/Printf)  | [So_Long](https://github.com/pasqualerossi/So_Long)  | [Minishell](https://github.com/pasqualerossi/Minishell)  | [Cub3D](https://github.com/pasqualerossi/Cub3D)  | [IRC](https://github.com/pasqualerossi/IRC) |  |
+| |        | [Get_Next_Line](https://github.com/pasqualerossi/Get_Next_Line)  | [Push_Swap](https://github.com/pasqualerossi/Push_Swap)  |  | [C++ Modules](https://github.com/pasqualerossi/C-Plus-Plus)  |  |
 
 </td>
 
-
-</tr> </table>
-
 <table>
 <tr>
-<th align="left"> &nbsp; Common Core Exams - From Exam Rank 02 To 06.</th>
+<th align="left"> &nbsp; Common Core Exams</th>
 </tr>
 <tr>
 
