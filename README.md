@@ -10,7 +10,7 @@
 
 <td>
 
-| [Piscine Guide](https://github.com/pasqualerossi/42-Piscine/tree/main)  | [C00](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c00) | [C01](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c01) | [C02](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c02) | [C03](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c03) | [C04](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c04) | [C05](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c05) | [C06](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c06) | [C07](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c07) |
+| [Piscine Overview](https://github.com/pasqualerossi/42-Piscine/tree/main)  | [C00](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c00) | [C01](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c01) | [C02](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c02) | [C03](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c03) | [C04](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c04) | [C05](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c05) | [C06](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c06) | [C07](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c07) |
 |--|--|--|--|--|--|--|--|--|
 
 </td> </tr> </table>
@@ -23,7 +23,7 @@
 
 <td>
 
-| [Piscine Exam Guide](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam) | [Level 0](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%200) | [Level 1](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%201) | [Level 2](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%202) | [Level 3](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%203) |
+| [Piscine Exam Overview](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam) | [Level 0](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%200) | [Level 1](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%201) | [Level 2](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%202) | [Level 3](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%203) |
 |--|--|--|--|--|
 
 </td> </tr> </table>
@@ -42,7 +42,7 @@
 
 | Guide | Circle 0  | Circle 1 | Circle 2  | Circle 3 | Circle 4 | Circle 5 | Circle 6 | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Common Core Guide](https://github.com/pasqualerossi/42-School-Guide) | [Libft](https://github.com/pasqualerossi/Libft)  | [Born2BeRoot](https://github.com/pasqualerossi/Born2BeRoot-Guide)  | [MiniTalk](https://github.com/pasqualerossi/MiniTalk)  | [Philosophers](https://github.com/pasqualerossi/Philosophers)  | [NetPractice](https://github.com/pasqualerossi/NetPractice)  | [Inception](https://github.com/pasqualerossi/Inception)  | [Transcendence](https://github.com/pasqualerossi/42_Transcendence)  | |
+| [Common Core Overview](https://github.com/pasqualerossi/42-School-Guide) | [Libft](https://github.com/pasqualerossi/Libft)  | [Born2BeRoot](https://github.com/pasqualerossi/Born2BeRoot-Guide)  | [MiniTalk](https://github.com/pasqualerossi/MiniTalk)  | [Philosophers](https://github.com/pasqualerossi/Philosophers)  | [NetPractice](https://github.com/pasqualerossi/NetPractice)  | [Inception](https://github.com/pasqualerossi/Inception)  | [Transcendence](https://github.com/pasqualerossi/42_Transcendence)  | |
 | |        | [Printf](https://github.com/pasqualerossi/Printf)  | [So_Long](https://github.com/pasqualerossi/So_Long)  | [Minishell](https://github.com/pasqualerossi/Minishell)  | [Cub3D](https://github.com/pasqualerossi/Cub3D)  | [IRC](https://github.com/pasqualerossi/IRC) |  |
 | |        | [Get_Next_Line](https://github.com/pasqualerossi/Get_Next_Line)  | [Push_Swap](https://github.com/pasqualerossi/Push_Swap)  |  | [C++ Modules](https://github.com/pasqualerossi/C-Plus-Plus)  |  |
 
@@ -56,7 +56,7 @@
 
 <td>
 
-| [Common Core Exam Guide](https://github.com/pasqualerossi/42-Exams) | [Exam Rank 02](https://github.com/pasqualerossi/42-School-Exam-Rank-02)  | [Exam Rank 03](https://github.com/pasqualerossi/42-School-Exam-Rank-03)  | [Exam Rank 04](https://github.com/pasqualerossi/42-School-Exam-Rank-04) | [Exam Rank 05](https://github.com/pasqualerossi/42-School-Exam-Rank-05)  | [Exam Rank 06](https://github.com/pasqualerossi/42-School-Exam-Rank-06)  |
+| [Common Core Exams Overview](https://github.com/pasqualerossi/42-Exams) | [Exam Rank 02](https://github.com/pasqualerossi/42-School-Exam-Rank-02)  | [Exam Rank 03](https://github.com/pasqualerossi/42-School-Exam-Rank-03)  | [Exam Rank 04](https://github.com/pasqualerossi/42-School-Exam-Rank-04) | [Exam Rank 05](https://github.com/pasqualerossi/42-School-Exam-Rank-05)  | [Exam Rank 06](https://github.com/pasqualerossi/42-School-Exam-Rank-06)  |
 |--|--|--|--|--|--|
 
 </td>
