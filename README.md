@@ -8,7 +8,7 @@ I’ve unfortunately received a notice from the 42 Central Team requesting the r
 
 I’d like to take a moment to express my heartfelt thanks to all of you who have visited and supported my GitHub over the past three years - January 2022 to January 2025. 
 
-It’s been an incredible connecting with students and contributors from around the world, from countries inlcuding Australia, Canada, Brazil, Czech Republic, Germany, France, Italy, Belgium, Czech Republic, Austria, Finland, Madagascar, Netherlands, Spain, Portugal, Poland, England, Luxembourg, Russia, South Korea, Armenia, Japan, Turkey, UAE, Switzerland, Morocco, Angola, Jordan, Thailand, Singapore, Malaysia, have made this Github truly rewarding.
+It’s been an incredible connecting with students and contributors from around the world, from countries inlcuding - Australia, Canada, Brazil, Czech Republic, Germany, France, Italy, Belgium, Czech Republic, Austria, Finland, Madagascar, Netherlands, Spain, Portugal, Poland, England, Luxembourg, Russia, South Korea, Armenia, Japan, Turkey, UAE, Switzerland, Morocco, Angola, Jordan, Thailand, Singapore, Malaysia, have made this Github truly rewarding.
 
 I’m incredibly grateful for the support and collaboration from everyone. We’ve accomplished so much together:
 
