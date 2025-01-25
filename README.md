@@ -6,7 +6,7 @@ Hi everyone,
 
 I’ve unfortunately received a notice from the 42 Central Team requesting the removal of 42-related content from this GitHub account.
 
-I’d like to take a moment to express my heartfelt thanks to all of you who have visited and supported my GitHub over the past three years - January 2022 to January 2025. 
+I’d like to take a moment to express my heartfelt thanks to all of you who have visited and supported my GitHub over the past three years - January 2022 to January 2025 for the 42 piscine, exams, projects, modules, guides and tools content. 
 
 It’s been an incredible connecting with students and contributors from around the world, from countries inlcuding - Australia, Canada, Brazil, Czech Republic, Germany, France, Italy, Belgium, Czech Republic, Austria, Finland, Madagascar, Netherlands, Spain, Portugal, Poland, England, Luxembourg, Russia, South Korea, Armenia, Japan, Turkey, UAE, Switzerland, Morocco, Angola, Jordan, Thailand, Singapore, Malaysia, have made this Github truly rewarding.
 
