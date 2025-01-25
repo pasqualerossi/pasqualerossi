@@ -17,7 +17,7 @@ I’m incredibly grateful for the support and collaboration from everyone. We’
 - 100+ contributors
 - Over 1,000 GitHub stars
 - More than 1,000 repo forks
-- Over 3,500 Commits over 50 Repositories
+- Over 3,500 commits over 50 repositories
 - 400+ pull requests
 - 300+ issues resolved
 
