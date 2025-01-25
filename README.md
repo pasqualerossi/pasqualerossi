@@ -4,7 +4,7 @@
 
 Hi everyone,
 
-I’ve unfortunately received a notice from the 42 Central Team requesting the removal of 42-related content from this GitHub account.
+I’ve received a notice from the 42 Central Team requesting the removal of 42-related content from this GitHub account.
 
 I’d like to take a moment to express my heartfelt thanks to all of you who have visited and supported my GitHub over the past three years - January 2022 to January 2025 for the 42 piscine, exams, projects, modules, guides and tools content. 
 
